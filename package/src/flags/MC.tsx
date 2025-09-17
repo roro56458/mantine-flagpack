@@ -13,17 +13,17 @@ export function MCFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
         <defs>
-          <mask id="mantine-5yj2nvhfp" fill="#fff">
+          <mask id="mantine-7dp4ysoo8" fill="#fff">
             <path fillRule="evenodd" d="M0 0h32v24H0z" />
           </mask>
-          <mask id="mantine-meuhuxffh" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-w131avpyg" />
+          <mask id="mantine-nd9ll3l6w" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-zehbedj2l" />
           </mask>
-          <path id="mantine-w131avpyg" d="M0 0h32v24H0z" />
+          <path id="mantine-zehbedj2l" d="M0 0h32v24H0z" />
         </defs>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-5yj2nvhfp)">
-          <use fill="#f7fcff" xlinkHref="#mantine-w131avpyg" />
-          <path fill="#c51918" d="M0 0h32v12H0z" mask="url(#mantine-meuhuxffh)" />
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-7dp4ysoo8)">
+          <use fill="#f7fcff" xlinkHref="#mantine-zehbedj2l" />
+          <path fill="#c51918" d="M0 0h32v12H0z" mask="url(#mantine-nd9ll3l6w)" />
         </g>
       </svg>
     </Box>

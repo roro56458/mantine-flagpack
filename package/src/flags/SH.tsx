@@ -13,25 +13,25 @@ export function SHFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
         <defs>
-          <mask id="mantine-ocxmm9imi" fill="#fff">
+          <mask id="mantine-fgesf9w7m" fill="#fff">
             <path fillRule="evenodd" d="M0 0h32v24H0z" />
           </mask>
-          <mask id="mantine-m6ts467za" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-9mpcb7rx5" />
+          <mask id="mantine-589b1i8z4" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-xclqxo8gx" />
           </mask>
-          <mask id="mantine-va4q31azk" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-1q8sitgm1" />
+          <mask id="mantine-2fwq63a9q" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-0gxbb1sx1" />
           </mask>
-          <mask id="mantine-t3d2gy0xe" fill="#fff">
+          <mask id="mantine-1hbqeaslv" fill="#fff">
             <path
               fillRule="evenodd"
               d="M.038.033c0 5.886-.36 9.931 3.912 9.931 4.273 0 4.273-4.966 3.99-9.931z"
             />
           </mask>
-          <path id="mantine-9mpcb7rx5" d="M0 0h32v24H0z" />
-          <path id="mantine-1q8sitgm1" d="M0 0h18v14H0z" />
-          <path id="mantine-0cv2babag" d="M0 0h12v6H0z" />
-          <filter id="mantine-9dxa0nbkm" width="108.3%" height="133.3%" x="-4.2%" y="-8.3%">
+          <path id="mantine-xclqxo8gx" d="M0 0h32v24H0z" />
+          <path id="mantine-0gxbb1sx1" d="M0 0h18v14H0z" />
+          <path id="mantine-3yiju9zws" d="M0 0h12v6H0z" />
+          <filter id="mantine-jevz3jv2p" width="108.3%" height="133.3%" x="-4.2%" y="-8.3%">
             <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1" />
             <feColorMatrix
               in="shadowOffsetOuter1"
@@ -39,11 +39,11 @@ export function SHFlag({ radius, className, size, ...others }: FlagProps) {
             />
           </filter>
         </defs>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-ocxmm9imi)">
-          <use fill="#2e42a5" xlinkHref="#mantine-9mpcb7rx5" />
-          <g mask="url(#mantine-m6ts467za)">
-            <use fill="#2b409a" xlinkHref="#mantine-1q8sitgm1" />
-            <g mask="url(#mantine-va4q31azk)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-fgesf9w7m)">
+          <use fill="#2e42a5" xlinkHref="#mantine-xclqxo8gx" />
+          <g mask="url(#mantine-589b1i8z4)">
+            <use fill="#2b409a" xlinkHref="#mantine-0gxbb1sx1" />
+            <g mask="url(#mantine-2fwq63a9q)">
               <g fillRule="nonzero">
                 <path
                   fill="#f7fcff"
@@ -67,7 +67,7 @@ export function SHFlag({ radius, className, size, ...others }: FlagProps) {
               />
             </g>
           </g>
-          <g mask="url(#mantine-m6ts467za)">
+          <g mask="url(#mantine-589b1i8z4)">
             <path
               stroke="#f7fcff"
               strokeWidth=".5"
@@ -76,13 +76,13 @@ export function SHFlag({ radius, className, size, ...others }: FlagProps) {
             <path
               fill="#2e42a5"
               d="M2 8h6v2H2z"
-              mask="url(#mantine-t3d2gy0xe)"
+              mask="url(#mantine-1hbqeaslv)"
               transform="translate(22 10)"
             />
-            <g mask="url(#mantine-t3d2gy0xe)" transform="translate(22 10)">
+            <g mask="url(#mantine-1hbqeaslv)" transform="translate(22 10)">
               <g transform="translate(-2 -2)">
-                <use fill="#000" filter="url(#mantine-9dxa0nbkm)" xlinkHref="#mantine-0cv2babag" />
-                <use fill="#fdff00" xlinkHref="#mantine-0cv2babag" />
+                <use fill="#000" filter="url(#mantine-jevz3jv2p)" xlinkHref="#mantine-3yiju9zws" />
+                <use fill="#fdff00" xlinkHref="#mantine-3yiju9zws" />
               </g>
               <path fill="#fdff00" fillRule="nonzero" d="M2.826 4.044h.2V8h-.2z" />
               <path

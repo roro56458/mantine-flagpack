@@ -13,17 +13,17 @@ export function IMFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
         <defs>
-          <mask id="mantine-j00iags5c" fill="#fff">
+          <mask id="mantine-r0gqyext2" fill="#fff">
             <path fillRule="evenodd" d="M0 0h32v24H0z" />
           </mask>
-          <mask id="mantine-g43w9wpho" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-ei9nkxt88" />
+          <mask id="mantine-aa67axksl" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-iyeswrtff" />
           </mask>
-          <path id="mantine-ei9nkxt88" d="M0 0h32v24H0z" />
+          <path id="mantine-iyeswrtff" d="M0 0h32v24H0z" />
         </defs>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-j00iags5c)">
-          <use fill="#e31d1c" xlinkHref="#mantine-ei9nkxt88" />
-          <g mask="url(#mantine-g43w9wpho)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-r0gqyext2)">
+          <use fill="#e31d1c" xlinkHref="#mantine-iyeswrtff" />
+          <g mask="url(#mantine-aa67axksl)">
             <path
               fill="#f7fcff"
               d="M6.213 4.025c1.03 1.175 1.82 1.763 2.369 1.763.859 0 4.232-2.843 5.23-2.38.664.309 1.67 2.077 3.016 5.305l-1.316 1.65-1.7-.927-.322-3.648C11.308 6.91 9.672 7.268 8.582 6.86l-.92.773c-.59-1.169-1-1.932-1.233-2.29-.21-.321-.325-.75-.345-1.289l.06-.002a.04.04 0 01.069-.027z"

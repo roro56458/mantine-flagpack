@@ -12,10 +12,10 @@ export function CCFlag({ radius, className, size, ...others }: FlagProps) {
       {...others}
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
-        <mask id="mantine-i542h48f5" fill="#fff">
+        <mask id="mantine-dg78k9yhe" fill="#fff">
           <path fillRule="evenodd" d="M0 0h32v24H0z" />
         </mask>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-i542h48f5)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-dg78k9yhe)">
           <path fill="#5eaa22" d="M0 0h32v24H0z" />
           <g fill="#feca00">
             <path d="M24 7l-1 .732.134-1.232L22 6l1.134-.5L23 4.268 24 5l1-.732-.134 1.232L26 6l-1.134.5L25 7.732zm-1.037 6.679l-1 .732.134-1.232-1.134-.5 1.134-.5-.134-1.232 1 .732 1-.732-.134 1.232 1.134.5-1.134.5.134 1.232zM26 19l-1 .732.134-1.232L24 18l1.134-.5L25 16.268 26 17l1-.732-.134 1.232L28 18l-1.134.5.134 1.232zm1-9.5l-.5.366.067-.616L26 9l.567-.25-.067-.616.5.366.5-.366-.067.616L28 9l-.567.25.067.616z" />

@@ -12,16 +12,16 @@ export function PEFlag({ radius, className, size, ...others }: FlagProps) {
       {...others}
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
-        <mask id="mantine-f8p2k5z7d" fill="#fff">
+        <mask id="mantine-wsxb7n6qy" fill="#fff">
           <path fillRule="evenodd" d="M0 0h32v24H0z" />
         </mask>
-        <mask id="mantine-ow94qto3o" fill="#fff">
+        <mask id="mantine-itcsiwgx9" fill="#fff">
           <path
             fillRule="evenodd"
             d="M4.936.154l.91 1.287c-.408.857-.456 1.81-.143 2.858.47 1.572-.025 2.784-2.113 2.918-.293.056-.491.12-.593.194v.124l-.008-.041a.157.157 0 00-.031-.048.129.129 0 00-.035.048l-.008.041v-.124c-.101-.074-.299-.138-.592-.194C.235 7.083-.26 5.871.21 4.3c.313-1.048.265-2-.144-2.858L.977.154c.363.268.678.402.945.402.268 0 .626-.134 1.076-.402l-.083.092V.154l.04.024.043-.024v.094L2.915.154c.45.268.808.402 1.075.402.267 0 .582-.134.946-.402z"
           />
         </mask>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-f8p2k5z7d)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-wsxb7n6qy)">
           <path fill="#f7fcff" d="M8 0h17v24H8z" />
           <path fill="#f50101" d="M24 0h8v24h-8zM0 0h8v24H0z" />
           <path
@@ -44,48 +44,48 @@ export function PEFlag({ radius, className, size, ...others }: FlagProps) {
           <path
             fill="#67baff"
             d="M.174 0h2.783v3.818H.174z"
-            mask="url(#mantine-ow94qto3o)"
+            mask="url(#mantine-itcsiwgx9)"
             transform="translate(13.13 8.727)"
           />
           <path
             fill="#fff"
             d="M2.957 0h2.782v3.818H2.957z"
-            mask="url(#mantine-ow94qto3o)"
+            mask="url(#mantine-itcsiwgx9)"
             transform="translate(13.13 8.727)"
           />
           <path
             fill="#c51918"
             d="M-.174 4.182h6.957v4.363H-.174z"
-            mask="url(#mantine-ow94qto3o)"
+            mask="url(#mantine-itcsiwgx9)"
             transform="translate(13.13 8.727)"
           />
           <g fill="#c9a951" fillRule="nonzero">
             <path
               d="M4.304 3.548h-.347V.933h.347z"
-              mask="url(#mantine-ow94qto3o)"
+              mask="url(#mantine-itcsiwgx9)"
               transform="translate(13.13 8.727)"
             />
             <path
               d="M4.163 2.358l-.17.304-.6-.335.17-.304zm0-.727l-.17.304-.6-.336.17-.303z"
-              mask="url(#mantine-ow94qto3o)"
+              mask="url(#mantine-itcsiwgx9)"
               transform="translate(13.13 8.727)"
             />
             <path
               d="M4.86 2.358l-.17.304-.6-.335.169-.304zm0-.727l-.17.304-.6-.336.169-.303z"
-              mask="url(#mantine-ow94qto3o)"
+              mask="url(#mantine-itcsiwgx9)"
               transform="matrix(-1 0 0 1 22.079 8.727)"
             />
           </g>
           <path
             fill="#fbcd17"
             d="M4.599 4.978c.161-.185.242-.23.242-.139 0 .139 0 .371-.121.371s-.685-.11-.9-.37c-.214-.26-.669-.714-1.253-.607-.585.106-1.278.864-1.45.864-.17 0-.545.585-.272 1.04.273.457.737.315.737.448 0 .132.116.147.55.147s.594.154.97.154-.124-.006.482-.154c.605-.147 1.064-.594.711-.594h-.711c-.245 0-.79.176-.79 0s.121-.554.456-.365c.334.189 1.262.332 1.59 0s.445-.533.387-.934c-.038-.267-.207-.362-.507-.285z"
-            mask="url(#mantine-ow94qto3o)"
+            mask="url(#mantine-itcsiwgx9)"
             transform="translate(13.13 8.727)"
           />
           <path
             fill="#d18219"
             d="M2.246.843c-.21.183-.075.853-.418.853-.344 0-.827-.502-.949-.17s0 .22 0 .501S.587 3.093.733 3.226s.295.481.27.318C.977 3.38.866 3.14.913 2.88c-.045-.27.245-.529.245-.529s-.031.28-.054.384c-.064.14-.083.257-.057.35.065.263.112.403.139.421.017-.621.036-.983.056-1.086.03-.154.243.173.314.136.016.426.012.664-.013.714-.05.1-.065.167-.047.2.047.116.09.157.129.123l.032-.174c-.023-.068-.017-.18.02-.336.038-.343.065-.477.081-.403-.007.162-.002.285.017.368.029.208.046.323.052.345.14.2.212.257.216.173-.134-.16-.187-.3-.158-.422-.077-.345-.062-.556.045-.633.285-.132.435-.31.452-.535.042-.257.066-.444.073-.562-.062-.034-.029-.082.1-.143.208-.08.247-.174.118-.285"
-            mask="url(#mantine-ow94qto3o)"
+            mask="url(#mantine-itcsiwgx9)"
             transform="translate(13.13 8.727)"
           />
         </g>

@@ -13,17 +13,17 @@ export function UAFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
         <defs>
-          <mask id="mantine-1t6wtebzg" fill="#fff">
+          <mask id="mantine-mi7fr9led" fill="#fff">
             <path fillRule="evenodd" d="M0 0h32v24H0z" />
           </mask>
-          <mask id="mantine-timwia3jf" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-r7vuawn70" />
+          <mask id="mantine-bgudi3dew" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-v89s86yxw" />
           </mask>
-          <path id="mantine-r7vuawn70" d="M0 0h32v24H0z" />
+          <path id="mantine-v89s86yxw" d="M0 0h32v24H0z" />
         </defs>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-1t6wtebzg)">
-          <use fill="#3195f9" xlinkHref="#mantine-r7vuawn70" />
-          <path fill="#feca00" d="M0 12h32v12H0z" mask="url(#mantine-timwia3jf)" />
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-mi7fr9led)">
+          <use fill="#3195f9" xlinkHref="#mantine-v89s86yxw" />
+          <path fill="#feca00" d="M0 12h32v12H0z" mask="url(#mantine-bgudi3dew)" />
         </g>
       </svg>
     </Box>

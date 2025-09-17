@@ -13,24 +13,24 @@ export function BZFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
         <defs>
-          <mask id="mantine-5y65eb0z1" fill="#fff">
+          <mask id="mantine-bmtmb1xg4" fill="#fff">
             <path fillRule="evenodd" d="M0 0h32v24H0z" />
           </mask>
-          <mask id="mantine-q7iatad2m" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-v5hlj6vrs" />
+          <mask id="mantine-pisi1eq82" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-yex15ngmb" />
           </mask>
-          <mask id="mantine-qconyccff" fill="#fff">
+          <mask id="mantine-r5tgj9kzd" fill="#fff">
             <path
               fillRule="evenodd"
               d="M0 0h4.053v2.492c0 1.241-.676 2.06-2.027 2.458C.676 4.516 0 3.697 0 2.492V0z"
             />
           </mask>
-          <path id="mantine-v5hlj6vrs" d="M0 0h32v24H0z" />
+          <path id="mantine-yex15ngmb" d="M0 0h32v24H0z" />
         </defs>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-5y65eb0z1)">
-          <use fill="#0168b4" xlinkHref="#mantine-v5hlj6vrs" />
-          <path fill="#e93c43" d="M0 0h32v3H0zm0 21h32v3H0z" mask="url(#mantine-q7iatad2m)" />
-          <g mask="url(#mantine-q7iatad2m)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-bmtmb1xg4)">
+          <use fill="#0168b4" xlinkHref="#mantine-yex15ngmb" />
+          <path fill="#e93c43" d="M0 0h32v3H0zm0 21h32v3H0z" mask="url(#mantine-pisi1eq82)" />
+          <g mask="url(#mantine-pisi1eq82)">
             <g transform="translate(8 4)">
               <path fill="#f7fcff" fillRule="nonzero" d="M8 14A6 6 0 118 2a6 6 0 010 12z" />
               <path fill="#fff" fillRule="nonzero" d="M8 16A8 8 0 118 0a8 8 0 010 16z" />
@@ -53,39 +53,39 @@ export function BZFlag({ radius, className, size, ...others }: FlagProps) {
                 <path
                   fill="#84ceff"
                   d="M.123 3.209l1.933-1.424L4.09 3.37v2.257H.123z"
-                  mask="url(#mantine-qconyccff)"
+                  mask="url(#mantine-r5tgj9kzd)"
                   opacity=".4"
                 />
                 <path
                   fill="#006ac9"
                   d="M.184 3.712h3.592v.5H.184z"
-                  mask="url(#mantine-qconyccff)"
+                  mask="url(#mantine-r5tgj9kzd)"
                 />
                 <path
                   fill="#59c800"
                   d="M.368 4.207h3.316v.266H.368z"
-                  mask="url(#mantine-qconyccff)"
+                  mask="url(#mantine-r5tgj9kzd)"
                 />
                 <path
                   fill="#ffd800"
                   d="M.368 4.537h3.316v.5H.368z"
-                  mask="url(#mantine-qconyccff)"
+                  mask="url(#mantine-r5tgj9kzd)"
                 />
                 <path
                   fill="#f7d85d"
                   d="M4.653 3.81l-2.59-1.977v-2.67h2.59z"
-                  mask="url(#mantine-qconyccff)"
+                  mask="url(#mantine-r5tgj9kzd)"
                 />
                 <path
                   fill="#f5f6f6"
                   d="M1.474 2.723c.054.283.102.424.144.424s.1-.141.176-.424c.009.283.034.424.076.424.063 0 .056-.356.156-.424.037-.025.083.422.139.424.031.002.085-.14.162-.424.023.283.053.424.089.424s.09-.141.163-.424v1.072H1.474z"
-                  mask="url(#mantine-qconyccff)"
+                  mask="url(#mantine-r5tgj9kzd)"
                 />
                 <ellipse
                   cx="2.026"
                   cy="3.919"
                   fill="#892e2e"
-                  mask="url(#mantine-qconyccff)"
+                  mask="url(#mantine-r5tgj9kzd)"
                   rx="1.013"
                   ry="1"
                 />
@@ -93,22 +93,22 @@ export function BZFlag({ radius, className, size, ...others }: FlagProps) {
                   <path
                     fill="#a46031"
                     d="M.216.404L.424.242l1.4 1.439-.207.163z"
-                    mask="url(#mantine-qconyccff)"
+                    mask="url(#mantine-r5tgj9kzd)"
                   />
                   <path
                     fill="#892e2e"
                     d="M.441 2.067L.22 1.92 1.582.288l.221.148z"
-                    mask="url(#mantine-qconyccff)"
+                    mask="url(#mantine-r5tgj9kzd)"
                   />
                   <path
                     fill="#a46031"
                     d="M2.334.618L2.542.49l1.401 1.143-.208.13z"
-                    mask="url(#mantine-qconyccff)"
+                    mask="url(#mantine-r5tgj9kzd)"
                   />
                   <path
                     fill="#f5f6f6"
                     d="M2.627 1.786l-.259-.176L3.7.536l.285.234z"
-                    mask="url(#mantine-qconyccff)"
+                    mask="url(#mantine-r5tgj9kzd)"
                   />
                 </g>
               </g>

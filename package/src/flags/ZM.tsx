@@ -13,18 +13,18 @@ export function ZMFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
         <defs>
-          <mask id="mantine-nmba3mrze" fill="#fff">
+          <mask id="mantine-0l2wof8rz" fill="#fff">
             <path fillRule="evenodd" d="M0 0h32v24H0z" />
           </mask>
-          <mask id="mantine-qy1b3yq0u" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-zss9ax4ul" />
+          <mask id="mantine-tzuzy7dlg" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-qy5rcr82g" />
           </mask>
-          <path id="mantine-zss9ax4ul" d="M0 0h32v24H0z" />
+          <path id="mantine-qy5rcr82g" d="M0 0h32v24H0z" />
         </defs>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-nmba3mrze)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-0l2wof8rz)">
           <path fill="#f7fcff" d="M0 0h32v24H0z" />
-          <use fill="#5eaa22" xlinkHref="#mantine-zss9ax4ul" />
-          <g mask="url(#mantine-qy1b3yq0u)">
+          <use fill="#5eaa22" xlinkHref="#mantine-qy5rcr82g" />
+          <g mask="url(#mantine-tzuzy7dlg)">
             <path fill="#ff8126" d="M27 10h5v14h-5z" />
             <path fill="#272727" d="M22 10h5v14h-5z" />
             <path fill="#c51918" d="M17 10h5v14h-5z" />

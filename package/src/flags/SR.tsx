@@ -12,10 +12,10 @@ export function SRFlag({ radius, className, size, ...others }: FlagProps) {
       {...others}
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
-        <mask id="mantine-0tbkgcvb0" fill="#fff">
+        <mask id="mantine-yxfxf1n8j" fill="#fff">
           <path fillRule="evenodd" d="M0 0h32v24H0z" />
         </mask>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-0tbkgcvb0)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-yxfxf1n8j)">
           <path fill="#4e8b1d" d="M0 16h32v8H0zM0 0h32v6H0z" />
           <path fill="#af0100" stroke="#fff" strokeWidth="3" d="M33.5 6.5v11h-35v-11z" />
           <path

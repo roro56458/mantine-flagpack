@@ -12,10 +12,10 @@ export function GRFlag({ radius, className, size, ...others }: FlagProps) {
       {...others}
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
-        <mask id="mantine-qngpwmrh6" fill="#fff">
+        <mask id="mantine-ld5m1f8v8" fill="#fff">
           <path fillRule="evenodd" d="M0 0h32v24H0z" />
         </mask>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-qngpwmrh6)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-ld5m1f8v8)">
           <path fill="#f7fcff" d="M0 0h32v24H0z" />
           <g fill="#4564f9">
             <path d="M32 15.943V18.9H0v-2.957zm0-5.128v2.957H0v-2.957zM32 5.5v2.957H0V5.5zM0 0h32v3H0zm0 21h32v3H0z" />

@@ -13,23 +13,23 @@ export function BWFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
         <defs>
-          <mask id="mantine-drp37im9n" fill="#fff">
+          <mask id="mantine-j5n2a56rf" fill="#fff">
             <path fillRule="evenodd" d="M0 0h32v24H0z" />
           </mask>
-          <mask id="mantine-scxfwuset" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-d6qnp227k" />
+          <mask id="mantine-iopyoie9f" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-pghvbaur8" />
           </mask>
-          <path id="mantine-d6qnp227k" d="M0 0h32v24H0z" />
+          <path id="mantine-pghvbaur8" d="M0 0h32v24H0z" />
         </defs>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-drp37im9n)">
-          <use fill="#42addf" xlinkHref="#mantine-d6qnp227k" />
-          <path fill="#58a5ff" d="M0 0h32v8H0z" mask="url(#mantine-scxfwuset)" />
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-j5n2a56rf)">
+          <use fill="#42addf" xlinkHref="#mantine-pghvbaur8" />
+          <path fill="#58a5ff" d="M0 0h32v8H0z" mask="url(#mantine-iopyoie9f)" />
           <path
             fill="#272727"
             stroke="#f7fcff"
             strokeWidth="2"
             d="M-1 9h34v6H-1z"
-            mask="url(#mantine-scxfwuset)"
+            mask="url(#mantine-iopyoie9f)"
           />
         </g>
       </svg>

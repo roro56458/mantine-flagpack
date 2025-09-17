@@ -13,18 +13,18 @@ export function NLFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
         <defs>
-          <mask id="mantine-92tow84xv" fill="#fff">
+          <mask id="mantine-v6pg0d00o" fill="#fff">
             <path fillRule="evenodd" d="M0 0h32v24H0z" />
           </mask>
-          <mask id="mantine-v222asx91" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-lkcsb2z21" />
+          <mask id="mantine-y9x2s243t" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-jzo0l5403" />
           </mask>
-          <path id="mantine-lkcsb2z21" d="M0 0h32v24H0z" />
+          <path id="mantine-jzo0l5403" d="M0 0h32v24H0z" />
         </defs>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-92tow84xv)">
-          <use fill="#f7fcff" xlinkHref="#mantine-lkcsb2z21" />
-          <path fill="#e31d1c" d="M0 0h32v8H0z" mask="url(#mantine-v222asx91)" />
-          <path fill="#3d58db" d="M0 16h32v8H0z" mask="url(#mantine-v222asx91)" />
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-v6pg0d00o)">
+          <use fill="#f7fcff" xlinkHref="#mantine-jzo0l5403" />
+          <path fill="#e31d1c" d="M0 0h32v8H0z" mask="url(#mantine-y9x2s243t)" />
+          <path fill="#3d58db" d="M0 16h32v8H0z" mask="url(#mantine-y9x2s243t)" />
         </g>
       </svg>
     </Box>

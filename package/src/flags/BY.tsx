@@ -12,10 +12,10 @@ export function BYFlag({ radius, className, size, ...others }: FlagProps) {
       {...others}
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
-        <mask id="mantine-hlq047r4c" fill="#fff">
+        <mask id="mantine-nbkh32ay0" fill="#fff">
           <path fillRule="evenodd" d="M0 0h32v24H0z" />
         </mask>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-hlq047r4c)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-nbkh32ay0)">
           <path fill="#73be4a" d="M0 0h32v24H0z" />
           <path fill="#af0100" d="M0 0h32v16H0z" />
           <path fill="#f7fcff" d="M0 0h6v24H0z" />

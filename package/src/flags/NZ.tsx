@@ -13,23 +13,23 @@ export function NZFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
         <defs>
-          <mask id="mantine-omynji3x3" fill="#fff">
+          <mask id="mantine-gaudeap8e" fill="#fff">
             <path fillRule="evenodd" d="M0 0h32v24H0z" />
           </mask>
-          <mask id="mantine-2qlmg49dr" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-qq07hk570" />
+          <mask id="mantine-yl89ui9zv" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-auy30ohs8" />
           </mask>
-          <mask id="mantine-krl7eqsji" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-5dsmu3kvp" />
+          <mask id="mantine-nse3ukk0o" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-sg3hj4bz6" />
           </mask>
-          <path id="mantine-qq07hk570" d="M0 0h32v24H0z" />
-          <path id="mantine-5dsmu3kvp" d="M0 0h18v14H0z" />
+          <path id="mantine-auy30ohs8" d="M0 0h32v24H0z" />
+          <path id="mantine-sg3hj4bz6" d="M0 0h18v14H0z" />
         </defs>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-omynji3x3)">
-          <use fill="#2e42a5" xlinkHref="#mantine-qq07hk570" />
-          <g mask="url(#mantine-2qlmg49dr)">
-            <use fill="#2b409a" xlinkHref="#mantine-5dsmu3kvp" />
-            <g mask="url(#mantine-krl7eqsji)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-gaudeap8e)">
+          <use fill="#2e42a5" xlinkHref="#mantine-auy30ohs8" />
+          <g mask="url(#mantine-yl89ui9zv)">
+            <use fill="#2b409a" xlinkHref="#mantine-sg3hj4bz6" />
+            <g mask="url(#mantine-nse3ukk0o)">
               <g fillRule="nonzero">
                 <path
                   fill="#f7fcff"
@@ -53,7 +53,7 @@ export function NZFlag({ radius, className, size, ...others }: FlagProps) {
               />
             </g>
           </g>
-          <g fill="#f50100" stroke="#f7fcff" strokeWidth=".4" mask="url(#mantine-2qlmg49dr)">
+          <g fill="#f50100" stroke="#f7fcff" strokeWidth=".4" mask="url(#mantine-yl89ui9zv)">
             <path d="M24.853 16l.882 1.786 1.971.287-1.426 1.39.337 1.964-1.764-.927-1.763.927.337-1.963L22 18.073l1.971-.287zM21.2 10.4l.68 1.377 1.52.221-1.1 1.073.26 1.514-1.36-.715-1.36.715.26-1.514-1.1-1.073 1.52-.22zm6.998 0l.679 1.376 1.518.22-1.099 1.072.26 1.512-1.358-.714-1.359.714.26-1.512L26 11.997l1.518-.221zM25.2 4.8l.68 1.377 1.52.221-1.1 1.073.26 1.514-1.36-.715-1.36.715.26-1.514L23 6.398l1.52-.22z" />
           </g>
         </g>

@@ -12,10 +12,10 @@ export function PGFlag({ radius, className, size, ...others }: FlagProps) {
       {...others}
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
-        <mask id="mantine-038iew36t" fill="#fff">
+        <mask id="mantine-ev9znpgju" fill="#fff">
           <path fillRule="evenodd" d="M0 0h32v24H0z" />
         </mask>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-038iew36t)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-ev9znpgju)">
           <rect width="32" height="24" fill="#e11c1b" rx="2" />
           <path fill="#1d1d1d" d="M0 0l32 24H0z" />
           <g fill="#eeeef6">

@@ -13,13 +13,13 @@ export function AEFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
         <defs>
-          <path id="mantine-cpjwmojav" d="M0 0h32v24H0z" />
+          <path id="mantine-g462lzplp" d="M0 0h32v24H0z" />
         </defs>
         <g fill="none" fillRule="evenodd">
-          <mask id="mantine-9nwgtse72" fill="#fff">
-            <use xlinkHref="#mantine-cpjwmojav" />
+          <mask id="mantine-02r4k4w2e" fill="#fff">
+            <use xlinkHref="#mantine-g462lzplp" />
           </mask>
-          <g mask="url(#mantine-9nwgtse72)">
+          <g mask="url(#mantine-02r4k4w2e)">
             <path fill="#F7FCFF" d="M0 0h32v24H0z" />
             <path fill="#5EAA22" d="M0 0h32v8H0z" />
             <path fill="#272727" d="M0 16h32v8H0z" />

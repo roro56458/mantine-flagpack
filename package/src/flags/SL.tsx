@@ -13,18 +13,18 @@ export function SLFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
         <defs>
-          <mask id="mantine-84nj1evf1" fill="#fff">
+          <mask id="mantine-nplghdhvb" fill="#fff">
             <path fillRule="evenodd" d="M0 0h32v24H0z" />
           </mask>
-          <mask id="mantine-z1ezv5gjt" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-tzmqqmzbi" />
+          <mask id="mantine-t83usk1ji" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-3r67embcc" />
           </mask>
-          <path id="mantine-tzmqqmzbi" d="M0 0h32v24H0z" />
+          <path id="mantine-3r67embcc" d="M0 0h32v24H0z" />
         </defs>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-84nj1evf1)">
-          <use fill="#f7fcff" xlinkHref="#mantine-tzmqqmzbi" />
-          <path fill="#78d843" d="M0 0h32v8H0z" mask="url(#mantine-z1ezv5gjt)" />
-          <path fill="#3d58db" d="M0 16h32v8H0z" mask="url(#mantine-z1ezv5gjt)" />
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-nplghdhvb)">
+          <use fill="#f7fcff" xlinkHref="#mantine-3r67embcc" />
+          <path fill="#78d843" d="M0 0h32v8H0z" mask="url(#mantine-t83usk1ji)" />
+          <path fill="#3d58db" d="M0 16h32v8H0z" mask="url(#mantine-t83usk1ji)" />
         </g>
       </svg>
     </Box>

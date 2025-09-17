@@ -12,10 +12,10 @@ export function CXFlag({ radius, className, size, ...others }: FlagProps) {
       {...others}
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
-        <mask id="mantine-8lic88rg0" fill="#fff">
+        <mask id="mantine-xpo022xj0" fill="#fff">
           <path fillRule="evenodd" d="M0 0h32v24H0z" />
         </mask>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-8lic88rg0)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-xpo022xj0)">
           <path fill="#5eaa22" d="M0 0h32v24H0z" />
           <path fill="#4141db" d="M0 0l32 24H0z" />
           <path

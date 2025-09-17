@@ -13,18 +13,18 @@ export function NAFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
         <defs>
-          <mask id="mantine-ifm23f89o" fill="#fff">
+          <mask id="mantine-th4f93jwe" fill="#fff">
             <path fillRule="evenodd" d="M0 0h32v24H0z" />
           </mask>
-          <mask id="mantine-1n42aqi8q" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-zi27f3t4f" />
+          <mask id="mantine-f0wvbsurg" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-yunzqycl7" />
           </mask>
-          <path id="mantine-zi27f3t4f" d="M0 0h32v24H0z" />
+          <path id="mantine-yunzqycl7" d="M0 0h32v24H0z" />
         </defs>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-ifm23f89o)">
-          <use fill="#093" xlinkHref="#mantine-zi27f3t4f" />
-          <path fill="#3195f9" d="M0 0v24L32 0z" mask="url(#mantine-1n42aqi8q)" />
-          <g mask="url(#mantine-1n42aqi8q)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-th4f93jwe)">
+          <use fill="#093" xlinkHref="#mantine-yunzqycl7" />
+          <path fill="#3195f9" d="M0 0v24L32 0z" mask="url(#mantine-f0wvbsurg)" />
+          <g mask="url(#mantine-f0wvbsurg)">
             <path
               fill="#e31d1c"
               fillRule="nonzero"

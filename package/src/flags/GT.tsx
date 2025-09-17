@@ -12,10 +12,10 @@ export function GTFlag({ radius, className, size, ...others }: FlagProps) {
       {...others}
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
-        <mask id="mantine-ysbtfxkre" fill="#fff">
+        <mask id="mantine-lr0f4eyzc" fill="#fff">
           <path fillRule="evenodd" d="M0 0h32v24H0z" />
         </mask>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-ysbtfxkre)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-lr0f4eyzc)">
           <path fill="#58a5ff" d="M22 0h10v24H22zM0 0h12v24H0z" />
           <path fill="#fff" d="M10 0h12v24H10z" />
           <path fill="#6c301f" d="M11.768 15.718l.522.684 2.37-3.212v-.569z" />

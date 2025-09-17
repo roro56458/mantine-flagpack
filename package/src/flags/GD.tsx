@@ -13,26 +13,26 @@ export function GDFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
         <defs>
-          <mask id="mantine-5xve95u5w" fill="#fff">
+          <mask id="mantine-oen7j3bqp" fill="#fff">
             <path fillRule="evenodd" d="M0 0h32v24H0z" />
           </mask>
-          <mask id="mantine-rifmv7we7" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-g4ggdoqlo" />
+          <mask id="mantine-r576n6ti8" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-bvvd05022" />
           </mask>
-          <path id="mantine-g4ggdoqlo" d="M0 0h20v12H0z" />
+          <path id="mantine-bvvd05022" d="M0 0h20v12H0z" />
         </defs>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-5xve95u5w)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-oen7j3bqp)">
           <path fill="#c51918" d="M0 0h32v24H0z" />
           <g transform="translate(6 6)">
-            <use fill="#feca00" xlinkHref="#mantine-g4ggdoqlo" />
-            <g fill="#23875f" mask="url(#mantine-rifmv7we7)">
+            <use fill="#feca00" xlinkHref="#mantine-bvvd05022" />
+            <g fill="#23875f" mask="url(#mantine-r576n6ti8)">
               <path d="M0 0l10 6-10 6zm20 0L10 6l10 6z" />
             </g>
-            <circle cx="10" cy="6" r="4" fill="#c51918" mask="url(#mantine-rifmv7we7)" />
+            <circle cx="10" cy="6" r="4" fill="#c51918" mask="url(#mantine-r576n6ti8)" />
             <path
               fill="#feca00"
               d="M9.93 7.313L7.858 8.75l.661-2.46L7 4.717l2.059-.085.87-2.433.871 2.433h2.055L11.34 6.289l.76 2.316z"
-              mask="url(#mantine-rifmv7we7)"
+              mask="url(#mantine-r576n6ti8)"
             />
           </g>
           <path

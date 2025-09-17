@@ -12,10 +12,10 @@ export function VCFlag({ radius, className, size, ...others }: FlagProps) {
       {...others}
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
-        <mask id="mantine-clwm6p5ul" fill="#fff">
+        <mask id="mantine-tlcmcsyhw" fill="#fff">
           <path fillRule="evenodd" d="M0 0h32v24H0z" />
         </mask>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-clwm6p5ul)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-tlcmcsyhw)">
           <path fill="#ffdc17" d="M8 0h16v24H8z" />
           <path fill="#5fbf2b" d="M24 0h8v24h-8z" />
           <path fill="#2e42a5" d="M0 0h8v24H0z" />

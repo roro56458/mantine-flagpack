@@ -13,33 +13,33 @@ export function FKFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
         <defs>
-          <mask id="mantine-t5nadf6f4" fill="#fff">
+          <mask id="mantine-5ul6uh4lu" fill="#fff">
             <path fillRule="evenodd" d="M0 0h32v24H0z" />
           </mask>
-          <mask id="mantine-yfhmrmxze" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-ga7fihot5" />
+          <mask id="mantine-hw7jzqutg" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-s83tyddqv" />
           </mask>
-          <mask id="mantine-oxt8grst8" fill="#fff">
+          <mask id="mantine-6ae17rzyt" fill="#fff">
             <path
               fillRule="evenodd"
               d="M.038.033c0 5.886-.36 9.931 3.912 9.931 4.273 0 4.273-4.966 3.99-9.931z"
             />
           </mask>
-          <mask id="mantine-feo97p0sq" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-vuglfmdfr" />
+          <mask id="mantine-pq7ng7chl" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-zibim7u1g" />
           </mask>
-          <path id="mantine-ga7fihot5" d="M0 0h32v24H0z" />
-          <path id="mantine-vuglfmdfr" d="M0 0h18v14H0z" />
+          <path id="mantine-s83tyddqv" d="M0 0h32v24H0z" />
+          <path id="mantine-zibim7u1g" d="M0 0h18v14H0z" />
         </defs>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-t5nadf6f4)">
-          <use fill="#2e42a5" xlinkHref="#mantine-ga7fihot5" />
-          <g mask="url(#mantine-yfhmrmxze)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-5ul6uh4lu)">
+          <use fill="#2e42a5" xlinkHref="#mantine-s83tyddqv" />
+          <g mask="url(#mantine-hw7jzqutg)">
             <path
               stroke="#f7fcff"
               strokeWidth=".5"
               d="M29.704 10.283c.15 2.717.203 5.412-.532 7.243-.28.698-.677 1.267-1.24 1.649-.514.349-1.165.539-1.982.539-.741 0-1.336-.126-1.81-.372-.488-.254-.844-.635-1.107-1.127-.67-1.254-.749-3.19-.752-5.583v-.552l.003-.769.004-1.028z"
             />
-            <g mask="url(#mantine-oxt8grst8)" transform="translate(22 10)">
+            <g mask="url(#mantine-6ae17rzyt)" transform="translate(22 10)">
               <path
                 fill="#e1e5e8"
                 d="M2.522 3.587a1.599 1.599 0 01-.564-.765c-.17-.473-.504-1.732-.504-1.841 0-.11-.446 0-.446 0s.006-.532.175-.532c.168 0 .174-.494.582-.37.408.125.729.58 1.145.58.415 0 2.153.133 2.433.133s1.016.59 1.016 1.031c0 .441-.201 1.1-.36 1.1s-.356.382-.656.255-1.017-.386-1.66-.256-.773.048-.773.256c0 .14-.13.275-.388.409z"
@@ -57,7 +57,7 @@ export function FKFlag({ radius, className, size, ...others }: FlagProps) {
               />
             </g>
           </g>
-          <g mask="url(#mantine-yfhmrmxze)">
+          <g mask="url(#mantine-hw7jzqutg)">
             <path
               stroke="#b85f3c"
               d="M22.963 18.394c.656.628.786 1.155.39 1.58-.396.426-.776.516-1.139.268m6.836-1.848c-.656.628-.786 1.155-.39 1.58.396.426.776.516 1.139.268"
@@ -67,9 +67,9 @@ export function FKFlag({ radius, className, size, ...others }: FlagProps) {
               d="M22.32 19.153c1.13 1.08 2.39 1.62 3.78 1.62s2.643-.412 3.76-1.237"
             />
           </g>
-          <g mask="url(#mantine-yfhmrmxze)">
-            <use fill="#2b409a" xlinkHref="#mantine-vuglfmdfr" />
-            <g mask="url(#mantine-feo97p0sq)">
+          <g mask="url(#mantine-hw7jzqutg)">
+            <use fill="#2b409a" xlinkHref="#mantine-zibim7u1g" />
+            <g mask="url(#mantine-pq7ng7chl)">
               <g fillRule="nonzero">
                 <path
                   fill="#f7fcff"

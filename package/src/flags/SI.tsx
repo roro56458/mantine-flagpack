@@ -13,19 +13,19 @@ export function SIFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
         <defs>
-          <mask id="mantine-q4jlieve6" fill="#fff">
+          <mask id="mantine-6xpj7ico6" fill="#fff">
             <rect width="32" height="24" fillRule="evenodd" rx="2" />
           </mask>
-          <mask id="mantine-jlnvlepnz" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-q6g2p5sed" />
+          <mask id="mantine-60pwvzehq" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-le918jmk3" />
           </mask>
-          <path id="mantine-q6g2p5sed" d="M0 0h32v24H0z" />
+          <path id="mantine-le918jmk3" d="M0 0h32v24H0z" />
         </defs>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-q4jlieve6)">
-          <use fill="#2e42a5" xlinkHref="#mantine-q6g2p5sed" />
-          <path fill="#f7fcff" d="M0 0h32v8H0z" mask="url(#mantine-jlnvlepnz)" />
-          <path fill="#c51918" d="M0 16h32v8H0z" mask="url(#mantine-jlnvlepnz)" />
-          <g mask="url(#mantine-jlnvlepnz)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-6xpj7ico6)">
+          <use fill="#2e42a5" xlinkHref="#mantine-le918jmk3" />
+          <path fill="#f7fcff" d="M0 0h32v8H0z" mask="url(#mantine-60pwvzehq)" />
+          <path fill="#c51918" d="M0 16h32v8H0z" mask="url(#mantine-60pwvzehq)" />
+          <g mask="url(#mantine-60pwvzehq)">
             <path
               fill="#2e42a5"
               d="M13.74 5.036c-1.403-.662-2.977-.994-4.722-.994-1.746 0-3.32.332-4.723.994.156 2.663.358 4.7.605 6.111.158.904.917 2.222 1.605 2.845.523.474 1.36.992 2.513 1.554.5-.345 1.435-.5 2.63-1.554.798-.702 1.295-1.65 1.493-2.845z"

@@ -13,30 +13,30 @@ export function HTFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
         <defs>
-          <mask id="mantine-l5md6qy5k" fill="#fff">
+          <mask id="mantine-x19kwcb1u" fill="#fff">
             <path fillRule="evenodd" d="M0 0h32v24H0z" />
           </mask>
-          <mask id="mantine-fuwe226pz" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-8l0tfm9ec" />
+          <mask id="mantine-1ejkjrnbp" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-ssd9gdr14" />
           </mask>
-          <mask id="mantine-611z194ae" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-6ivw7e1l1" />
+          <mask id="mantine-uhdlijbgv" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-pbfdh2ps5" />
           </mask>
-          <path id="mantine-8l0tfm9ec" d="M0 0h32v24H0z" />
-          <path id="mantine-6ivw7e1l1" d="M0 0h12v8H0z" />
+          <path id="mantine-ssd9gdr14" d="M0 0h32v24H0z" />
+          <path id="mantine-pbfdh2ps5" d="M0 0h12v8H0z" />
         </defs>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-l5md6qy5k)">
-          <use fill="#2e42a5" xlinkHref="#mantine-8l0tfm9ec" />
-          <path fill="#e31d1c" d="M0 12h32v12H0z" mask="url(#mantine-fuwe226pz)" />
-          <g mask="url(#mantine-fuwe226pz)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-x19kwcb1u)">
+          <use fill="#2e42a5" xlinkHref="#mantine-ssd9gdr14" />
+          <path fill="#e31d1c" d="M0 12h32v12H0z" mask="url(#mantine-1ejkjrnbp)" />
+          <g mask="url(#mantine-1ejkjrnbp)">
             <g transform="translate(10 8)">
-              <use fill="#fff" xlinkHref="#mantine-6ivw7e1l1" />
+              <use fill="#fff" xlinkHref="#mantine-pbfdh2ps5" />
               <path
                 fill="#279e19"
                 d="M0 6.578a22.18 22.18 0 016-.711c2.08.03 4.08.327 6 .889V8H0z"
-                mask="url(#mantine-611z194ae)"
+                mask="url(#mantine-uhdlijbgv)"
               />
-              <g mask="url(#mantine-611z194ae)">
+              <g mask="url(#mantine-uhdlijbgv)">
                 <g stroke="#026a16" strokeWidth=".5">
                   <path d="M6.074.901c-.621-.28-1.148-.42-1.581-.42s-.77.214-1.011.64" />
                   <path d="M6.28 1.322c-.57-.205-1.056-.307-1.454-.307s-.71.156-.93.468" />
@@ -56,7 +56,7 @@ export function HTFlag({ radius, className, size, ...others }: FlagProps) {
                   d="M5.888 2.398c-.077.892-.115 1.52-.115 1.882 0 .363.038.936.115 1.719h.293v-1.72c0-.302-.057-.93-.172-1.88z"
                 />
               </g>
-              <g mask="url(#mantine-611z194ae)">
+              <g mask="url(#mantine-uhdlijbgv)">
                 <path
                   fill="#c51918"
                   d="M4.732 3.918c-.483.259-.724.77-.724 1.536l.724 1.385h1.307V4.557z"
@@ -75,7 +75,7 @@ export function HTFlag({ radius, className, size, ...others }: FlagProps) {
                   d="M1.98 5.16l3.025.338-.17.423h-.48l.327.238.737.173V5.92h.645v.873H4.682l-.53-.635c-.297.293-.59.44-.88.44-.434 0-.862-.143-.862-.622v-.333l-.43-.146z"
                 />
               </g>
-              <g mask="url(#mantine-611z194ae)">
+              <g mask="url(#mantine-uhdlijbgv)">
                 <path
                   fill="#c51918"
                   d="M6.854 3.918c.483.259.724.77.724 1.536l-.724 1.385H5.547V4.557z"

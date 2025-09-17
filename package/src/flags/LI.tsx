@@ -13,18 +13,18 @@ export function LIFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
         <defs>
-          <mask id="mantine-ucywto1j4" fill="#fff">
+          <mask id="mantine-ox739yel5" fill="#fff">
             <path fillRule="evenodd" d="M0 0h32v24H0z" />
           </mask>
-          <mask id="mantine-3c8y4va0u" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-2mr61e70d" />
+          <mask id="mantine-vn6jfvai0" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-0rpq0c7s5" />
           </mask>
-          <path id="mantine-2mr61e70d" d="M0 0h32v24H0z" />
+          <path id="mantine-0rpq0c7s5" d="M0 0h32v24H0z" />
         </defs>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-ucywto1j4)">
-          <use fill="#e31d1c" xlinkHref="#mantine-2mr61e70d" />
-          <path fill="#2e42a5" d="M0 0h32v12H0z" mask="url(#mantine-3c8y4va0u)" />
-          <g mask="url(#mantine-3c8y4va0u)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-ox739yel5)">
+          <use fill="#e31d1c" xlinkHref="#mantine-0rpq0c7s5" />
+          <path fill="#2e42a5" d="M0 0h32v12H0z" mask="url(#mantine-vn6jfvai0)" />
+          <g mask="url(#mantine-vn6jfvai0)">
             <path
               fill="#000"
               d="M4.798 11.053c.805.5 2.14.751 4.003.751s3.291-.25 4.28-.75c-1.461-.85-2.846-1.276-4.153-1.276-1.307 0-2.684.425-4.13 1.275z"

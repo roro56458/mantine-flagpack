@@ -12,10 +12,10 @@ export function DZFlag({ radius, className, size, ...others }: FlagProps) {
       {...others}
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
-        <mask id="mantine-fu3y1cvfa" fill="#fff">
+        <mask id="mantine-35bimzhdx" fill="#fff">
           <path fillRule="evenodd" d="M0 0h32v24H0z" />
         </mask>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-fu3y1cvfa)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-35bimzhdx)">
           <path fill="#f7fcff" d="M16 0h16v24H16z" />
           <path fill="#36a400" d="M0 0h16v24H0z" />
           <path

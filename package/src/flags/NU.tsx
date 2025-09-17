@@ -13,22 +13,22 @@ export function NUFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
         <defs>
-          <mask id="mantine-egzh0mucx" fill="#fff">
+          <mask id="mantine-598732l1a" fill="#fff">
             <path fillRule="evenodd" d="M0 0h32v24H0z" />
           </mask>
-          <mask id="mantine-o7pfw8kg7" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-pptf2j9o9" />
+          <mask id="mantine-e24uy9zcz" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-vfa3qp57p" />
           </mask>
-          <mask id="mantine-kqybigfad" fill="#fff">
+          <mask id="mantine-7scch2pcm" fill="#fff">
             <path fillRule="evenodd" d="M0 0h32v16H0z" />
           </mask>
-          <path id="mantine-pptf2j9o9" d="M0 0h32v24H0z" />
+          <path id="mantine-vfa3qp57p" d="M0 0h32v24H0z" />
         </defs>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-egzh0mucx)">
-          <use fill="#2e42a5" xlinkHref="#mantine-pptf2j9o9" />
-          <path fill="#feca00" d="M0 16h32v8H0z" mask="url(#mantine-o7pfw8kg7)" />
-          <g mask="url(#mantine-o7pfw8kg7)">
-            <g mask="url(#mantine-kqybigfad)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-598732l1a)">
+          <use fill="#2e42a5" xlinkHref="#mantine-vfa3qp57p" />
+          <path fill="#feca00" d="M0 16h32v8H0z" mask="url(#mantine-e24uy9zcz)" />
+          <g mask="url(#mantine-e24uy9zcz)">
+            <g mask="url(#mantine-7scch2pcm)">
               <g fillRule="nonzero">
                 <path
                   fill="#fff"
@@ -55,7 +55,7 @@ export function NUFlag({ radius, className, size, ...others }: FlagProps) {
               />
             </g>
           </g>
-          <g mask="url(#mantine-o7pfw8kg7)">
+          <g mask="url(#mantine-e24uy9zcz)">
             <g transform="translate(4)">
               <circle cx="12.05" cy="7.85" r="2.75" fill="#2e42a5" />
               <path

@@ -13,23 +13,23 @@ export function VGFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
         <defs>
-          <mask id="mantine-t9ai978ti" fill="#fff">
+          <mask id="mantine-tniqke4ej" fill="#fff">
             <path fillRule="evenodd" d="M0 0h32v24H0z" />
           </mask>
-          <mask id="mantine-f31fzg0nq" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-a3mrnadif" />
+          <mask id="mantine-w7eweaufw" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-fkub98ra2" />
           </mask>
-          <mask id="mantine-lhgdt4huy" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-p53ylk6o7" />
+          <mask id="mantine-ca13lqudl" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-19vqc51xq" />
           </mask>
-          <path id="mantine-a3mrnadif" d="M0 0h32v24H0z" />
-          <path id="mantine-p53ylk6o7" d="M0 0h18v14H0z" />
+          <path id="mantine-fkub98ra2" d="M0 0h32v24H0z" />
+          <path id="mantine-19vqc51xq" d="M0 0h18v14H0z" />
         </defs>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-t9ai978ti)">
-          <use fill="#2e42a5" xlinkHref="#mantine-a3mrnadif" />
-          <g mask="url(#mantine-f31fzg0nq)">
-            <use fill="#2b409a" xlinkHref="#mantine-p53ylk6o7" />
-            <g mask="url(#mantine-lhgdt4huy)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-tniqke4ej)">
+          <use fill="#2e42a5" xlinkHref="#mantine-fkub98ra2" />
+          <g mask="url(#mantine-w7eweaufw)">
+            <use fill="#2b409a" xlinkHref="#mantine-19vqc51xq" />
+            <g mask="url(#mantine-ca13lqudl)">
               <g fillRule="nonzero">
                 <path
                   fill="#f7fcff"
@@ -53,7 +53,7 @@ export function VGFlag({ radius, className, size, ...others }: FlagProps) {
               />
             </g>
           </g>
-          <g mask="url(#mantine-f31fzg0nq)">
+          <g mask="url(#mantine-w7eweaufw)">
             <path
               fill="#3b7e05"
               stroke="#f7fcff"

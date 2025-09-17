@@ -13,17 +13,17 @@ export function ADFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
         <defs>
-          <path id="mantine-ena8t7he7" d="M0 0h32v24H0z" />
+          <path id="mantine-lzojy9dff" d="M0 0h32v24H0z" />
           <path
-            id="mantine-mbzjiriez"
+            id="mantine-1pb9ni1rg"
             d="M7.646.088v7.03c-.001.414-.22.71-.658.892a2.77 2.77 0 01-1.427.174c-.492-.106-.868-.106-1.128 0-.207.084-.377.14-.51.17v.017a.996.996 0 01-.046-.007l-.049.007v-.017a3.26 3.26 0 01-.51-.17c-.26-.106-.636-.106-1.128 0A2.77 2.77 0 01.763 8.01c-.438-.181-.657-.478-.658-.892V.088h7.54z"
           />
         </defs>
         <g fill="none" fillRule="evenodd">
-          <mask id="mantine-hf589p3t6" fill="#fff">
-            <use xlinkHref="#mantine-ena8t7he7" />
+          <mask id="mantine-pmuexsfls" fill="#fff">
+            <use xlinkHref="#mantine-lzojy9dff" />
           </mask>
-          <g mask="url(#mantine-hf589p3t6)">
+          <g mask="url(#mantine-pmuexsfls)">
             <path fill="#FFD018" d="M8 0h16v24H8z" />
             <path fill="#2E42A5" d="M0 0h8v24H0z" />
             <path fill="#E31D1C" d="M24 0h8v24h-8z" />
@@ -37,11 +37,11 @@ export function ADFlag({ radius, className, size, ...others }: FlagProps) {
               d="M12.11 15.998l.105-.254c1.208.517 2.582.777 4.124.777 1.541 0 2.879-.26 4.013-.776l.11.252c-1.17.533-2.545.8-4.123.8-1.576 0-2.986-.267-4.229-.8z"
             />
             <g transform="translate(12.373 7.144)">
-              <mask id="mantine-2b6y73mwm" fill="#fff">
-                <use xlinkHref="#mantine-mbzjiriez" />
+              <mask id="mantine-9tmnice8s" fill="#fff">
+                <use xlinkHref="#mantine-1pb9ni1rg" />
               </mask>
-              <use fill="#BF9937" xlinkHref="#mantine-mbzjiriez" />
-              <g mask="url(#mantine-2b6y73mwm)">
+              <use fill="#BF9937" xlinkHref="#mantine-1pb9ni1rg" />
+              <g mask="url(#mantine-9tmnice8s)">
                 <path fill="#D00F3A" d="M0 0h3.656v3.9H0z" />
                 <path
                   fill="#FEDF00"
@@ -65,7 +65,7 @@ export function ADFlag({ radius, className, size, ...others }: FlagProps) {
               <path
                 fill="#D00F3A"
                 d="M.813 4.333v4.045H.406V4.333h.406zm.812 0v4.045h-.406V4.333h.406zm.813 0v4.045H2.03V4.333h.406zm.812 0v4.045h-.406V4.333h.406zM5.01 0v4.044h-.406V0h.406zm.813 0v4.044h-.406V0h.406zm.812 0v4.044H6.23V0h.406zm.813 0v4.044h-.406V0h.406z"
-                mask="url(#mantine-2b6y73mwm)"
+                mask="url(#mantine-9tmnice8s)"
               />
             </g>
           </g>

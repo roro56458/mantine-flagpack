@@ -12,10 +12,10 @@ export function SOFlag({ radius, className, size, ...others }: FlagProps) {
       {...others}
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
-        <mask id="mantine-geg79bv8b" fill="#fff">
+        <mask id="mantine-zsq095xhi" fill="#fff">
           <path fillRule="evenodd" d="M0 0h32v24H0z" />
         </mask>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-geg79bv8b)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-zsq095xhi)">
           <path fill="#56c6f5" d="M0 0h32v24H0z" />
           <path
             fill="#f7fcff"

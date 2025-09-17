@@ -12,10 +12,10 @@ export function ASFlag({ radius, className, size, ...others }: FlagProps) {
       {...others}
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
-        <mask id="mantine-39fq6z5qu" fill="#fff">
+        <mask id="mantine-i69zb9x2z" fill="#fff">
           <path fillRule="evenodd" d="M0 0h32v24H0z" />
         </mask>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-39fq6z5qu)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-i69zb9x2z)">
           <path fill="#f7fcff" d="M0 0h32v24H0z" />
           <path
             fill="#3547a0"

@@ -13,23 +13,23 @@ export function TVFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
         <defs>
-          <mask id="mantine-t9naqtycn" fill="#fff">
+          <mask id="mantine-e9rkf8mk9" fill="#fff">
             <path fillRule="evenodd" d="M0 0h32v24H0z" />
           </mask>
-          <mask id="mantine-8xkx1tam5" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-6lv41205f" />
+          <mask id="mantine-ub0m0eora" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-sovc89nx5" />
           </mask>
-          <mask id="mantine-tu4a476es" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-09zpho8ul" />
+          <mask id="mantine-j0ls5cnkh" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-iy3pto8yt" />
           </mask>
-          <path id="mantine-6lv41205f" d="M0 0h32v24H0z" />
-          <path id="mantine-09zpho8ul" d="M0 0h18v14H0z" />
+          <path id="mantine-sovc89nx5" d="M0 0h32v24H0z" />
+          <path id="mantine-iy3pto8yt" d="M0 0h18v14H0z" />
         </defs>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-t9naqtycn)">
-          <use fill="#00b4ff" xlinkHref="#mantine-6lv41205f" />
-          <g mask="url(#mantine-8xkx1tam5)">
-            <use fill="#2b409a" xlinkHref="#mantine-09zpho8ul" />
-            <g mask="url(#mantine-tu4a476es)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-e9rkf8mk9)">
+          <use fill="#00b4ff" xlinkHref="#mantine-sovc89nx5" />
+          <g mask="url(#mantine-ub0m0eora)">
+            <use fill="#2b409a" xlinkHref="#mantine-iy3pto8yt" />
+            <g mask="url(#mantine-j0ls5cnkh)">
               <g fillRule="nonzero">
                 <path
                   fill="#f7fcff"
@@ -53,7 +53,7 @@ export function TVFlag({ radius, className, size, ...others }: FlagProps) {
               />
             </g>
           </g>
-          <g fill="#ffd018" mask="url(#mantine-8xkx1tam5)">
+          <g fill="#ffd018" mask="url(#mantine-ub0m0eora)">
             <path d="M16.107 19.348l1.124.682.89-.534-.356 1.162 1.031.862-1.332.04-.607 1.125-.34-1.277-1.308-.163 1.007-.605zm-3.157-.207l.612 1.164H14.6l-.904.813.44 1.27-1.162-.652-1.1.652.366-1.27-1.037-.813h1.175zm7.157-1.793l1.124.682.89-.534-.356 1.162 1.031.862-1.332.04-.607 1.125-.34-1.277-1.308-.163 1.007-.605zm-4-2l1.124.682.89-.534-.356 1.162 1.031.862-1.332.04-.607 1.125-.34-1.277-1.308-.163 1.007-.605zm8 0l1.124.682.89-.534-.356 1.162 1.031.862-1.332.04-.607 1.125-.34-1.277-1.308-.163 1.007-.605zm2-2l1.124.682.89-.534-.356 1.162 1.031.862-1.332.04-.607 1.125-.34-1.277-1.308-.163 1.007-.605zm-6-2l1.124.682.89-.534-.356 1.162 1.031.862-1.332.04-.607 1.125-.34-1.277-1.308-.163 1.007-.605zm2-2l1.124.682.89-.534-.356 1.162 1.031.862-1.332.04-.607 1.125-.34-1.277-1.308-.163 1.007-.605zm4-2l1.124.682.89-.534-.356 1.162 1.031.862-1.332.04-.607 1.125-.34-1.277-1.308-.163 1.007-.605z" />
           </g>
         </g>

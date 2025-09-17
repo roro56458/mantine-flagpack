@@ -13,17 +13,17 @@ export function WSFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
         <defs>
-          <mask id="mantine-b99hv0pv9" fill="#fff">
+          <mask id="mantine-tavwwvcan" fill="#fff">
             <path fillRule="evenodd" d="M0 0h32v24H0z" />
           </mask>
-          <mask id="mantine-5csqgjcru" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-9azw7pafh" />
+          <mask id="mantine-0d8o2dl0n" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-cy5yka4vv" />
           </mask>
-          <path id="mantine-9azw7pafh" d="M0 0h32v24H0z" />
+          <path id="mantine-cy5yka4vv" d="M0 0h32v24H0z" />
         </defs>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-b99hv0pv9)">
-          <use fill="#c51918" xlinkHref="#mantine-9azw7pafh" />
-          <g mask="url(#mantine-5csqgjcru)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-tavwwvcan)">
+          <use fill="#c51918" xlinkHref="#mantine-cy5yka4vv" />
+          <g mask="url(#mantine-0d8o2dl0n)">
             <path fill="#2e42a5" d="M0 0h16v14H0z" />
             <path
               fill="#feffff"

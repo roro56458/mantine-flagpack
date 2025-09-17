@@ -13,17 +13,17 @@ export function GGFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
         <defs>
-          <mask id="mantine-qwibol55j" fill="#fff">
+          <mask id="mantine-o6je0rh3b" fill="#fff">
             <path fillRule="evenodd" d="M0 0h32v24H0z" />
           </mask>
-          <mask id="mantine-kiwlwmxod" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-1pksgsccy" />
+          <mask id="mantine-d5sl9p05b" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-hde721o3j" />
           </mask>
-          <path id="mantine-1pksgsccy" d="M0 0h32v24H0z" />
+          <path id="mantine-hde721o3j" d="M0 0h32v24H0z" />
         </defs>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-qwibol55j)">
-          <use fill="#f7fcff" xlinkHref="#mantine-1pksgsccy" />
-          <g mask="url(#mantine-kiwlwmxod)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-o6je0rh3b)">
+          <use fill="#f7fcff" xlinkHref="#mantine-hde721o3j" />
+          <g mask="url(#mantine-d5sl9p05b)">
             <path fill="#e31d1c" d="M12 0h8v8h12v8H20v8h-8v-8H0V8h12z" />
             <path
               fill="#feca00"

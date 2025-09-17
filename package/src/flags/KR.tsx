@@ -13,27 +13,27 @@ export function KRFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
         <defs>
-          <mask id="mantine-dhqt6da91" fill="#fff">
+          <mask id="mantine-p3u1ntzyu" fill="#fff">
             <path fillRule="evenodd" d="M0 0h32v24H0z" />
           </mask>
-          <mask id="mantine-qnm8avlmf" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-hv3hpbx79" />
+          <mask id="mantine-omkzvu160" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-m41pdcbnr" />
           </mask>
-          <mask id="mantine-zz4tyh461" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-vmv37q5kd" />
+          <mask id="mantine-sq0alpazc" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-ohdzkvsvn" />
           </mask>
-          <ellipse id="mantine-vmv37q5kd" cx="5.799" cy="6.159" rx="5.799" ry="6.159" />
-          <path id="mantine-hv3hpbx79" d="M0 0h32v24H0z" />
+          <ellipse id="mantine-ohdzkvsvn" cx="5.799" cy="6.159" rx="5.799" ry="6.159" />
+          <path id="mantine-m41pdcbnr" d="M0 0h32v24H0z" />
         </defs>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-dhqt6da91)">
-          <use fill="#f7fcff" xlinkHref="#mantine-hv3hpbx79" />
-          <g mask="url(#mantine-qnm8avlmf)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-p3u1ntzyu)">
+          <use fill="#f7fcff" xlinkHref="#mantine-m41pdcbnr" />
+          <g mask="url(#mantine-omkzvu160)">
             <g transform="translate(10.201 5.902)">
-              <use fill="#3d58db" xlinkHref="#mantine-vmv37q5kd" />
+              <use fill="#3d58db" xlinkHref="#mantine-ohdzkvsvn" />
               <path
                 fill="#e31d1c"
                 d="M11.801 6.63c-.217-1.936-1.13-2.956-2.736-3.061-2.41-.158-3.06 2.13-3.2 2.735s-.491 2.223-3.03 2.223c-1.691 0-2.614-1.37-2.766-4.11V-.432H11.8z"
-                mask="url(#mantine-zz4tyh461)"
+                mask="url(#mantine-sq0alpazc)"
               />
             </g>
             <path

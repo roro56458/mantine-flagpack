@@ -13,54 +13,54 @@ export function AOFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
         <defs>
-          <path id="mantine-f5ip78lv9" d="M0 0h32v24H0z" />
+          <path id="mantine-eebqkjypf" d="M0 0h32v24H0z" />
           <path
-            id="mantine-i7yu94nne"
+            id="mantine-foijhzty7"
             d="M4.846 5.464l-.95.658.336-1.102-.922-.695L4.466 4.3l.38-1.087.38 1.087 1.156.024-.921.695.335 1.102z"
           />
           <path
-            id="mantine-cidmguyos"
+            id="mantine-mwt0pbhgj"
             d="M2.614 5.86c-1.122 1.645-1.242 2.77-.358 3.37s3.663 2.171 8.337 4.707c.966-.005 1.518.095 1.655.3.206.309.635.671.816.671.12 0 .336-.109.647-.327.243-.198.243-.413 0-.644s-1.005-.741-2.287-1.531C6.419 9.21 3.704 7.456 3.278 7.14a1.578 1.578 0 01-.664-1.28z"
           />
-          <filter id="mantine-4bvj1eclt" width="95.1%" height="90.5%" x="2.4%" y="0%">
+          <filter id="mantine-9g4igzuby" width="95.1%" height="90.5%" x="2.4%" y="0%">
             <feOffset in="SourceAlpha" result="shadowOffsetOuter1" />
             <feColorMatrix
               in="shadowOffsetOuter1"
               values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"
             />
           </filter>
-          <filter id="mantine-govzio1iy" width="100%" height="100%" x="0%" y="0%">
+          <filter id="mantine-i3ncgtywo" width="100%" height="100%" x="0%" y="0%">
             <feOffset in="SourceAlpha" result="shadowOffsetOuter1" />
             <feColorMatrix
               in="shadowOffsetOuter1"
               values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"
             />
           </filter>
-          <mask id="mantine-hn9f8a5y8" fill="#fff">
+          <mask id="mantine-a0mobjdge" fill="#fff">
             <path fillRule="evenodd" d="M0 0h32v24H0z" />
           </mask>
-          <mask id="mantine-lbiuetm7h" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-f5ip78lv9" />
+          <mask id="mantine-ise4tx03h" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-eebqkjypf" />
           </mask>
         </defs>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-hn9f8a5y8)">
-          <use fill="#1d1d1d" xlinkHref="#mantine-f5ip78lv9" />
-          <path fill="#f50100" d="M0 0h32v12H0z" mask="url(#mantine-lbiuetm7h)" />
-          <g mask="url(#mantine-lbiuetm7h)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-a0mobjdge)">
+          <use fill="#1d1d1d" xlinkHref="#mantine-eebqkjypf" />
+          <path fill="#f50100" d="M0 0h32v12H0z" mask="url(#mantine-ise4tx03h)" />
+          <g mask="url(#mantine-ise4tx03h)">
             <path
               fill="#ffea42"
               fillRule="nonzero"
               d="M9.933 5.897l.427-1.405c3.2.976 5.13 2.689 5.672 5.131.36 1.621.196 3.07-.386 4.36-.415.918-.942 1.604-1.7 2.377-1.263 1.288-3.34 2.11-5.217 1.76a10.5 10.5 0 01-3.61-1.375l.766-1.252a9.038 9.038 0 003.111 1.184c1.355.252 2.961-.384 3.906-1.347.647-.66 1.08-1.222 1.41-1.953.453-1.005.58-2.13.29-3.434-.414-1.864-1.932-3.211-4.669-4.046z"
             />
             <g transform="translate(5 4)">
-              <use fill="#000" filter="url(#mantine-4bvj1eclt)" xlinkHref="#mantine-i7yu94nne" />
-              <use fill="#fcff01" xlinkHref="#mantine-i7yu94nne" />
-              <use fill="#ffea42" xlinkHref="#mantine-i7yu94nne" />
+              <use fill="#000" filter="url(#mantine-9g4igzuby)" xlinkHref="#mantine-foijhzty7" />
+              <use fill="#fcff01" xlinkHref="#mantine-foijhzty7" />
+              <use fill="#ffea42" xlinkHref="#mantine-foijhzty7" />
             </g>
             <g transform="translate(5 4)">
-              <use fill="#000" filter="url(#mantine-govzio1iy)" xlinkHref="#mantine-cidmguyos" />
-              <use fill="#fcff01" xlinkHref="#mantine-cidmguyos" />
-              <use fill="#ffea42" xlinkHref="#mantine-cidmguyos" />
+              <use fill="#000" filter="url(#mantine-i3ncgtywo)" xlinkHref="#mantine-mwt0pbhgj" />
+              <use fill="#fcff01" xlinkHref="#mantine-mwt0pbhgj" />
+              <use fill="#ffea42" xlinkHref="#mantine-mwt0pbhgj" />
             </g>
             <path
               fill="#ffea42"

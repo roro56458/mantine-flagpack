@@ -13,19 +13,19 @@ export function KNFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
         <defs>
-          <mask id="mantine-1jyd4hvzl" fill="#fff">
+          <mask id="mantine-00669l42l" fill="#fff">
             <path fillRule="evenodd" d="M0 0h32v24H0z" />
           </mask>
-          <mask id="mantine-4zhmobdg8" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-n9iz2sjm7" />
+          <mask id="mantine-45ssy2tuy" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-yx10kfskq" />
           </mask>
           <path
-            id="mantine-n9iz2sjm7"
+            id="mantine-yx10kfskq"
             d="M5 18c.997 0 5-3.582 5-8S5.997 2 5 2s-5 3.582-5 8 4.003 8 5 8z"
           />
         </defs>
         <g fill="none" fillRule="evenodd">
-          <g mask="url(#mantine-1jyd4hvzl)">
+          <g mask="url(#mantine-00669l42l)">
             <path fill="#272727" d="M0 0h32v8H0z" />
             <path fill="#4e8b1d" d="M0 16h32v8H0z" />
             <path
@@ -47,21 +47,21 @@ export function KNFlag({ radius, className, size, ...others }: FlagProps) {
               fillRule="nonzero"
               d="M1.971 1.929c.21.431.144.675-.2.731l7.607 15.6-.449.219L.298.782A.1.1 0 01.436.651c.833.462 1.345.888 1.535 1.278z"
             />
-            <use fill="#e31d1c" xlinkHref="#mantine-n9iz2sjm7" />
+            <use fill="#e31d1c" xlinkHref="#mantine-yx10kfskq" />
             <g fillRule="nonzero">
-              <circle cx="-4.5" cy="10" r="7" fill="#272727" mask="url(#mantine-4zhmobdg8)" />
-              <circle cx="14.5" cy="10" r="7" fill="#272727" mask="url(#mantine-4zhmobdg8)" />
+              <circle cx="-4.5" cy="10" r="7" fill="#272727" mask="url(#mantine-45ssy2tuy)" />
+              <circle cx="14.5" cy="10" r="7" fill="#272727" mask="url(#mantine-45ssy2tuy)" />
               <path
                 fill="#f7fcff"
                 d="M6 14.5c0 1.693-.343 3.105-.8 3.43v-6.86c.457.325.8 1.737.8 3.43zm-1.3-3.34v6.68c-.406-.446-.7-1.772-.7-3.34s.294-2.894.7-3.34zM6 5.5c0 1.693-.343 3.105-.8 3.43V2.07c.457.325.8 1.737.8 3.43zM4.7 2.16v6.68C4.294 8.394 4 7.068 4 5.5s.294-2.894.7-3.34z"
-                mask="url(#mantine-4zhmobdg8)"
+                mask="url(#mantine-45ssy2tuy)"
               />
               <circle
                 cx="5"
                 cy="10"
                 r="1"
                 fill="#f7fcff"
-                mask="url(#mantine-4zhmobdg8)"
+                mask="url(#mantine-45ssy2tuy)"
                 transform="matrix(1 0 0 -1 0 20)"
               />
             </g>

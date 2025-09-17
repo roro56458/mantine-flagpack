@@ -13,17 +13,17 @@ export function JPFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
         <defs>
-          <mask id="mantine-qhbxer7j5" fill="#fff">
+          <mask id="mantine-3ycytip2i" fill="#fff">
             <path fillRule="evenodd" d="M0 0h32v24H0z" />
           </mask>
-          <mask id="mantine-2c13v9nwy" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-m7rnaqk4j" />
+          <mask id="mantine-cmk7qmjq4" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-8o9uoofmx" />
           </mask>
-          <path id="mantine-m7rnaqk4j" d="M0 0h32v24H0z" />
+          <path id="mantine-8o9uoofmx" d="M0 0h32v24H0z" />
         </defs>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-qhbxer7j5)">
-          <use fill="#f7fcff" xlinkHref="#mantine-m7rnaqk4j" />
-          <circle cx="16" cy="12" r="7.5" fill="#e31d1c" mask="url(#mantine-2c13v9nwy)" />
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-3ycytip2i)">
+          <use fill="#f7fcff" xlinkHref="#mantine-8o9uoofmx" />
+          <circle cx="16" cy="12" r="7.5" fill="#e31d1c" mask="url(#mantine-cmk7qmjq4)" />
         </g>
       </svg>
     </Box>

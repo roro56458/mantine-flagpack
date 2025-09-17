@@ -66,6 +66,7 @@ export { EHFlag } from './EH';
 export { ERFlag } from './ER';
 export { ESFlag } from './ES';
 export { ETFlag } from './ET';
+export { EUFlag } from './EU';
 export { FIFlag } from './FI';
 export { FJFlag } from './FJ';
 export { FKFlag } from './FK';

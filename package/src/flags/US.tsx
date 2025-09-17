@@ -12,10 +12,10 @@ export function USFlag({ radius, className, size, ...others }: FlagProps) {
       {...others}
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
-        <mask id="mantine-5ozt72l3q" fill="#fff">
+        <mask id="mantine-03mvcsjn7" fill="#fff">
           <path fillRule="evenodd" d="M0 0h32v24H0z" />
         </mask>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-5ozt72l3q)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-03mvcsjn7)">
           <path fill="#f7fcff" d="M0 0h32v24H0z" />
           <path
             fill="#e31d1c"

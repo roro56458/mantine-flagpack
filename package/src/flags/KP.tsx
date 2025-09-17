@@ -13,24 +13,24 @@ export function KPFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
         <defs>
-          <mask id="mantine-qkttreui4" fill="#fff">
+          <mask id="mantine-cls4m1ifk" fill="#fff">
             <path fillRule="evenodd" d="M0 0h32v24H0z" />
           </mask>
-          <mask id="mantine-ovyjqb3so" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-exoryb43w" />
+          <mask id="mantine-ay4ddp7k2" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-hn6fc3vje" />
           </mask>
-          <path id="mantine-exoryb43w" d="M0 0h32v24H0z" />
+          <path id="mantine-hn6fc3vje" d="M0 0h32v24H0z" />
         </defs>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-qkttreui4)">
-          <use fill="#3d58db" xlinkHref="#mantine-exoryb43w" />
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-cls4m1ifk)">
+          <use fill="#3d58db" xlinkHref="#mantine-hn6fc3vje" />
           <path
             fill="#c51918"
             stroke="#f7fcff"
             strokeWidth="2"
             d="M-1 5h34v14H-1z"
-            mask="url(#mantine-ovyjqb3so)"
+            mask="url(#mantine-ay4ddp7k2)"
           />
-          <g mask="url(#mantine-ovyjqb3so)">
+          <g mask="url(#mantine-ay4ddp7k2)">
             <g transform="translate(5 7)">
               <circle cx="5" cy="5" r="5" fill="#f7fcff" />
               <path

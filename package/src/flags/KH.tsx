@@ -12,10 +12,10 @@ export function KHFlag({ radius, className, size, ...others }: FlagProps) {
       {...others}
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
-        <mask id="mantine-i0f9zourt" fill="#fff">
+        <mask id="mantine-fbjxb7hd7" fill="#fff">
           <path fillRule="evenodd" d="M0 0h32v24H0z" />
         </mask>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-i0f9zourt)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-fbjxb7hd7)">
           <path fill="#032ea1" fillRule="nonzero" d="M0 0h32v24H0z" />
           <path fill="#e00025" fillRule="nonzero" d="M0 6h32v12H0z" />
           <g stroke="#000" strokeWidth=".06">

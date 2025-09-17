@@ -13,7 +13,7 @@ export function ZWFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 32 24">
         <mask
-          id="mantine-oln2rwr6e"
+          id="mantine-auhdm9ai7"
           style={{ maskType: 'alpha' }}
           width="32"
           height="24"
@@ -23,10 +23,10 @@ export function ZWFlag({ radius, className, size, ...others }: FlagProps) {
         >
           <path fill="#fff" d="M0 0h32v24H0z" />
         </mask>
-        <g mask="url(#mantine-oln2rwr6e)">
+        <g mask="url(#mantine-auhdm9ai7)">
           <path fill="#F7FCFF" fillRule="evenodd" d="M0 0v24h32V0H0z" clipRule="evenodd" />
           <mask
-            id="mantine-0l7qs3v29"
+            id="mantine-jomc2ayea"
             style={{ maskType: 'alpha' }}
             width="32"
             height="24"
@@ -36,7 +36,7 @@ export function ZWFlag({ radius, className, size, ...others }: FlagProps) {
           >
             <path fill="#fff" fillRule="evenodd" d="M0 0v24h32V0H0z" clipRule="evenodd" />
           </mask>
-          <g mask="url(#mantine-0l7qs3v29)">
+          <g mask="url(#mantine-jomc2ayea)">
             <path fill="#FECA00" fillRule="evenodd" d="M0 2v20h32V2H0z" clipRule="evenodd" />
             <path
               fill="#272727"
@@ -58,7 +58,7 @@ export function ZWFlag({ radius, className, size, ...others }: FlagProps) {
             d="M.597-.802L-1-1.991V25.96l1.587-1.15 16.331-11.85 1.102-.799-1.092-.812L.597-.802z"
           />
           <mask
-            id="mantine-t7x7axi4x"
+            id="mantine-jjjp1ybks"
             style={{ maskType: 'alpha' }}
             width="22"
             height="32"
@@ -73,7 +73,7 @@ export function ZWFlag({ radius, className, size, ...others }: FlagProps) {
               d="M.597-.802L-1-1.991V25.96l1.587-1.15 16.331-11.85 1.102-.799-1.092-.812L.597-.802z"
             />
           </mask>
-          <g mask="url(#mantine-t7x7axi4x)">
+          <g mask="url(#mantine-jjjp1ybks)">
             <path
               fill="#E31D1C"
               fillRule="evenodd"

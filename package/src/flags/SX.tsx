@@ -13,23 +13,23 @@ export function SXFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
         <defs>
-          <mask id="mantine-cdkdxteky" fill="#fff">
+          <mask id="mantine-640qnc0yx" fill="#fff">
             <path fillRule="evenodd" d="M0 0h32v24H0z" />
           </mask>
-          <mask id="mantine-ub0ixh3to" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-6z9qh5zz2" />
+          <mask id="mantine-dxx43v4gz" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-hhntefnrq" />
           </mask>
-          <mask id="mantine-vof9od8ga" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-dho2o9ylq" />
+          <mask id="mantine-w6ar940zn" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-ejdyoefof" />
           </mask>
-          <path id="mantine-6z9qh5zz2" d="M0 0h32v24H0z" />
-          <path id="mantine-dho2o9ylq" d="M0-2v28l20-14z" />
+          <path id="mantine-hhntefnrq" d="M0 0h32v24H0z" />
+          <path id="mantine-ejdyoefof" d="M0-2v28l20-14z" />
         </defs>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-cdkdxteky)">
-          <use fill="#e31d1c" xlinkHref="#mantine-6z9qh5zz2" />
-          <path fill="#2e42a5" d="M0 12h32v12H0z" mask="url(#mantine-ub0ixh3to)" />
-          <use fill="#f7fcff" xlinkHref="#mantine-dho2o9ylq" />
-          <g mask="url(#mantine-vof9od8ga)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-640qnc0yx)">
+          <use fill="#e31d1c" xlinkHref="#mantine-hhntefnrq" />
+          <path fill="#2e42a5" d="M0 12h32v12H0z" mask="url(#mantine-dxx43v4gz)" />
+          <use fill="#f7fcff" xlinkHref="#mantine-ejdyoefof" />
+          <g mask="url(#mantine-w6ar940zn)">
             <g transform="translate(4.021 6)">
               <ellipse cx="4.105" cy="2.094" fill="#fbcd17" rx="2.601" ry="2.094" />
               <path

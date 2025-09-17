@@ -12,12 +12,12 @@ export function GIFlag({ radius, className, size, ...others }: FlagProps) {
       {...others}
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
-        <mask id="mantine-bssd611yc" fill="#fff">
+        <mask id="mantine-cr5bnfmlj" fill="#fff">
           <path fillRule="evenodd" d="M0 0h32v24H0z" />
         </mask>
         <g fill="none" fillRule="evenodd">
-          <path fill="#f7fcff" d="M0 0h32v24H0z" mask="url(#mantine-bssd611yc)" />
-          <g mask="url(#mantine-bssd611yc)">
+          <path fill="#f7fcff" d="M0 0h32v24H0z" mask="url(#mantine-cr5bnfmlj)" />
+          <g mask="url(#mantine-cr5bnfmlj)">
             <path fill="#c51918" d="M0 16h32v6a2 2 0 01-2 2H2a2 2 0 01-2-2z" />
             <path
               fill="#db000b"

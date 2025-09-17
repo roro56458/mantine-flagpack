@@ -13,17 +13,17 @@ export function IDFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
         <defs>
-          <mask id="mantine-sehganved" fill="#fff">
+          <mask id="mantine-rc2rr55m3" fill="#fff">
             <path fillRule="evenodd" d="M0 0h32v24H0z" />
           </mask>
-          <mask id="mantine-yytr89ujs" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-wjo1nf1ls" />
+          <mask id="mantine-5deb92hz4" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-6dvsmk88s" />
           </mask>
-          <path id="mantine-wjo1nf1ls" d="M0 0h32v24H0z" />
+          <path id="mantine-6dvsmk88s" d="M0 0h32v24H0z" />
         </defs>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-sehganved)">
-          <use fill="#f7fcff" xlinkHref="#mantine-wjo1nf1ls" />
-          <path fill="#e31d1c" d="M0 0h32v12H0z" mask="url(#mantine-yytr89ujs)" />
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-rc2rr55m3)">
+          <use fill="#f7fcff" xlinkHref="#mantine-6dvsmk88s" />
+          <path fill="#e31d1c" d="M0 0h32v12H0z" mask="url(#mantine-5deb92hz4)" />
         </g>
       </svg>
     </Box>

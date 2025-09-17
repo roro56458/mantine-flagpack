@@ -13,14 +13,14 @@ export function GSFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
         <defs>
-          <mask id="mantine-4q87uouiz" fill="#fff">
+          <mask id="mantine-72z2kf35t" fill="#fff">
             <path fillRule="evenodd" d="M0 0h32v24H0z" />
           </mask>
-          <mask id="mantine-pz1i2qi99" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-wl7ejkkbc" />
+          <mask id="mantine-rju40dziu" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-vsykuezvi" />
           </mask>
           <linearGradient
-            id="mantine-9w6wtw73n"
+            id="mantine-nw8jwhxew"
             x1="50.717%"
             x2="54.756%"
             y1="29.732%"
@@ -29,14 +29,14 @@ export function GSFlag({ radius, className, size, ...others }: FlagProps) {
             <stop offset="0" stopColor="#d5dfff" />
             <stop offset="1" stopColor="#fff" />
           </linearGradient>
-          <path id="mantine-wl7ejkkbc" d="M0 0h18v14H0z" />
+          <path id="mantine-vsykuezvi" d="M0 0h18v14H0z" />
         </defs>
         <g fill="none" fillRule="evenodd">
-          <g fill="#2b409a" mask="url(#mantine-4q87uouiz)">
+          <g fill="#2b409a" mask="url(#mantine-72z2kf35t)">
             <path d="M0 .1h32v24H0z" />
           </g>
-          <use fill="#2b409a" xlinkHref="#mantine-wl7ejkkbc" />
-          <g mask="url(#mantine-pz1i2qi99)">
+          <use fill="#2b409a" xlinkHref="#mantine-vsykuezvi" />
+          <g mask="url(#mantine-rju40dziu)">
             <g fillRule="nonzero">
               <path
                 fill="#f7fcff"
@@ -106,7 +106,7 @@ export function GSFlag({ radius, className, size, ...others }: FlagProps) {
               <path d="M24.566 16.078l-.31.402 1.105 1.249c.195-.096.349-.206.516-.338l-.576-.65.234-.673.337.38-1.053 1.313a2.325 2.325 0 01-.548-.33l.557-.69z" />
             </g>
             <path
-              fill="url(#mantine-9w6wtw73n)"
+              fill="url(#mantine-nw8jwhxew)"
               d="M9.385 6.851c0 .064.07 3.832.146 3.796.19-.09.233.106.233.106s.066.62-.098.703a2.416 2.416 0 01-.422.187l-.283-.206s-.288-.403-.353-.582c-.066-.178-.144-.977-.118-1.15.026-.171.046-1.18.033-1.232-.013-.051-.066-.894-.033-1.022.033-.127.235-.69.229-.69 0 0 .666.026.666.09z"
               transform="translate(19 6)"
             />

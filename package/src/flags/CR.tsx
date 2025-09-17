@@ -13,22 +13,22 @@ export function CRFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
         <defs>
-          <mask id="mantine-ck6qtytix" fill="#fff">
+          <mask id="mantine-rdvvno5x5" fill="#fff">
             <path fillRule="evenodd" d="M0 0h32v24H0z" />
           </mask>
-          <mask id="mantine-wwvc8z2wf" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-r4y1kes87" />
+          <mask id="mantine-cfxt1edow" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-rp9jlmow6" />
           </mask>
-          <path id="mantine-r4y1kes87" d="M0 0h32v24H0z" />
+          <path id="mantine-rp9jlmow6" d="M0 0h32v24H0z" />
         </defs>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-ck6qtytix)">
-          <use fill="#2e42a5" xlinkHref="#mantine-r4y1kes87" />
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-rdvvno5x5)">
+          <use fill="#2e42a5" xlinkHref="#mantine-rp9jlmow6" />
           <path
             fill="#e31d1c"
             stroke="#f7fcff"
             strokeWidth="4"
             d="M-2 8h36v8H-2z"
-            mask="url(#mantine-wwvc8z2wf)"
+            mask="url(#mantine-cfxt1edow)"
           />
         </g>
       </svg>

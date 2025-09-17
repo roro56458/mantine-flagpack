@@ -13,17 +13,17 @@ export function DMFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
         <defs>
-          <mask id="mantine-6h0dtvn44" fill="#fff">
+          <mask id="mantine-s9uv80ppm" fill="#fff">
             <path fillRule="evenodd" d="M0 0h32v24H0z" />
           </mask>
-          <mask id="mantine-dd23r7dx7" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-l3c0n90mp" />
+          <mask id="mantine-q8rniwypk" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-tuhatg8mt" />
           </mask>
-          <path id="mantine-l3c0n90mp" d="M0 0h32v24H0z" />
+          <path id="mantine-tuhatg8mt" d="M0 0h32v24H0z" />
         </defs>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-6h0dtvn44)">
-          <use fill="#279e19" xlinkHref="#mantine-l3c0n90mp" />
-          <g mask="url(#mantine-dd23r7dx7)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-s9uv80ppm)">
+          <use fill="#279e19" xlinkHref="#mantine-tuhatg8mt" />
+          <g mask="url(#mantine-q8rniwypk)">
             <path fill="#f7fcff" d="M17 0h2v13h13v2H19v9h-2v-9H0v-2h17z" />
             <path fill="#272727" d="M15 0h2v11h15v2H17v11h-2V13H0v-2h15z" />
             <path fill="#feca00" d="M13 0h2v9h17v2H15v13h-2V11H0V9h13z" />

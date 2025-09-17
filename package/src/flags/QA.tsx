@@ -12,10 +12,10 @@ export function QAFlag({ radius, className, size, ...others }: FlagProps) {
       {...others}
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
-        <mask id="mantine-4x2vqh65e" fill="#fff">
+        <mask id="mantine-e6w52tfae" fill="#fff">
           <path fillRule="evenodd" d="M0 0h32v24H0z" />
         </mask>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-4x2vqh65e)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-e6w52tfae)">
           <path fill="#b61c49" d="M0 0h32v24H0z" />
           <path
             fill="#f7fcff"

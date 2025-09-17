@@ -12,10 +12,10 @@ export function LBFlag({ radius, className, size, ...others }: FlagProps) {
       {...others}
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
-        <mask id="mantine-xqj73qc22" fill="#fff">
+        <mask id="mantine-gg1q4qz8h" fill="#fff">
           <path fillRule="evenodd" d="M0 0h32v24H0z" />
         </mask>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-xqj73qc22)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-gg1q4qz8h)">
           <path fill="#f50101" d="M32 18v6H0v-6zm0-18v6H0V0z" />
           <path fill="#f7fcff" d="M0 6h32v12H0z" />
           <path

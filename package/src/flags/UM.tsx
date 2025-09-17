@@ -12,10 +12,10 @@ export function UMFlag({ radius, className, size, ...others }: FlagProps) {
       {...others}
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
-        <mask id="mantine-h9hh69rmn" fill="#fff">
+        <mask id="mantine-smfaj03r3" fill="#fff">
           <path fillRule="evenodd" d="M0 0h32v24H0z" />
         </mask>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-h9hh69rmn)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-smfaj03r3)">
           <path fill="#f7fcff" d="M0 0h32v24H0z" />
           <path
             fill="#e31d1c"

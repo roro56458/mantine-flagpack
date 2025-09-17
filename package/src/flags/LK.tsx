@@ -12,10 +12,10 @@ export function LKFlag({ radius, className, size, ...others }: FlagProps) {
       {...others}
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
-        <mask id="mantine-014h9frnv" fill="#fff">
+        <mask id="mantine-2tohxtv53" fill="#fff">
           <path fillRule="evenodd" d="M0 0h32v24H0z" />
         </mask>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-014h9frnv)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-2tohxtv53)">
           <path fill="#feca00" d="M0 0h32v22a2 2 0 01-2 2H2a2 2 0 01-2-2z" />
           <path fill="#1f8a6e" d="M2 2h6v20H2z" />
           <path fill="#f56800" d="M8 2h6v20H8z" />

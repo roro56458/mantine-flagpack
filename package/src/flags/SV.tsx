@@ -13,18 +13,18 @@ export function SVFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
         <defs>
-          <mask id="mantine-dnfdx19sn" fill="#fff">
+          <mask id="mantine-kk2rmfa6p" fill="#fff">
             <path fillRule="evenodd" d="M0 0h32v24H0z" />
           </mask>
-          <mask id="mantine-5ejrfxqlh" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-2uyiyu19p" />
+          <mask id="mantine-eww39vydj" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-kz5njnjyw" />
           </mask>
-          <path id="mantine-2uyiyu19p" d="M0 0h32v24H0z" />
+          <path id="mantine-kz5njnjyw" d="M0 0h32v24H0z" />
         </defs>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-dnfdx19sn)">
-          <use fill="#f7fcff" xlinkHref="#mantine-2uyiyu19p" />
-          <path fill="#3d58db" d="M0 0h32v8H0zm0 16h32v8H0z" mask="url(#mantine-5ejrfxqlh)" />
-          <g mask="url(#mantine-5ejrfxqlh)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-kk2rmfa6p)">
+          <use fill="#f7fcff" xlinkHref="#mantine-kz5njnjyw" />
+          <path fill="#3d58db" d="M0 0h32v8H0zm0 16h32v8H0z" mask="url(#mantine-eww39vydj)" />
+          <g mask="url(#mantine-eww39vydj)">
             <g transform="translate(10 6)">
               <circle cx="5.784" cy="5.858" r="3.642" stroke="#e8aa00" />
               <path

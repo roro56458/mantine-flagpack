@@ -13,36 +13,36 @@ export function MZFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
         <defs>
-          <mask id="mantine-11av5baa3" fill="#fff">
+          <mask id="mantine-9yk4e900w" fill="#fff">
             <path fillRule="evenodd" d="M0 0h32v24H0z" />
           </mask>
-          <mask id="mantine-0o3gc97w5" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-y2c2gxa1z" />
+          <mask id="mantine-3rpaw8lzw" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-t9xltjjp2" />
           </mask>
-          <mask id="mantine-jqncvyxnt" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-3qhicqvdx" />
+          <mask id="mantine-780p5xfg7" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-xtu70o5yi" />
           </mask>
-          <path id="mantine-y2c2gxa1z" d="M0 0h32v24H0z" />
-          <path id="mantine-3qhicqvdx" d="M0 0v24l18-12z" />
+          <path id="mantine-t9xltjjp2" d="M0 0h32v24H0z" />
+          <path id="mantine-xtu70o5yi" d="M0 0v24l18-12z" />
         </defs>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-11av5baa3)">
-          <use fill="#f7fcff" xlinkHref="#mantine-y2c2gxa1z" />
-          <path fill="#feca00" d="M0 0h32v8H0z" mask="url(#mantine-0o3gc97w5)" />
-          <path fill="#093" d="M0 16h32v8H0z" mask="url(#mantine-0o3gc97w5)" />
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-9yk4e900w)">
+          <use fill="#f7fcff" xlinkHref="#mantine-t9xltjjp2" />
+          <path fill="#feca00" d="M0 0h32v8H0z" mask="url(#mantine-3rpaw8lzw)" />
+          <path fill="#093" d="M0 16h32v8H0z" mask="url(#mantine-3rpaw8lzw)" />
           <path
             fill="#272727"
             stroke="#fff"
             strokeWidth="2"
             d="M-1 7h34v10H-1z"
-            mask="url(#mantine-0o3gc97w5)"
+            mask="url(#mantine-3rpaw8lzw)"
           />
-          <use fill="#f50100" xlinkHref="#mantine-3qhicqvdx" />
+          <use fill="#f50100" xlinkHref="#mantine-xtu70o5yi" />
           <path
             fill="#feca00"
             d="M8.069 14.353l-3.78 3.05 1.734-4.076-2.978-2.868H6.56L8.003 7l1.532 3.459h3.51l-3.136 2.868 1.57 4.077z"
-            mask="url(#mantine-jqncvyxnt)"
+            mask="url(#mantine-780p5xfg7)"
           />
-          <g mask="url(#mantine-jqncvyxnt)">
+          <g mask="url(#mantine-780p5xfg7)">
             <path
               fill="#f7fcff"
               d="M6.156 11.984l-.64 2.14c1.442-.014 2.25.052 2.423.198.522-.326 1.32-.391 2.395-.197l-.858-2.291c-.725-.328-1.237-.403-1.537-.223-.737-.166-1.33-.042-1.783.373z"

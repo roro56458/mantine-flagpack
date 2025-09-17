@@ -12,10 +12,10 @@ export function BDFlag({ radius, className, size, ...others }: FlagProps) {
       {...others}
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
-        <mask id="mantine-fys9ry3i5" fill="#fff">
+        <mask id="mantine-rvvzalqdg" fill="#fff">
           <path fillRule="evenodd" d="M0 0h32v24H0z" />
         </mask>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-fys9ry3i5)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-rvvzalqdg)">
           <path fill="#38a17e" d="M0 0h32v24H0z" />
           <circle cx="13" cy="12" r="7" fill="#f72e45" />
         </g>

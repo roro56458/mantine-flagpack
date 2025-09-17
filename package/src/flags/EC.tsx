@@ -13,25 +13,25 @@ export function ECFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
         <defs>
-          <mask id="mantine-ajgnr2cfq" fill="#fff">
+          <mask id="mantine-5ch6z4pcx" fill="#fff">
             <path fillRule="evenodd" d="M0 0h32v24H0z" />
           </mask>
-          <mask id="mantine-xbqkcryop" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-yudt0cg8t" />
+          <mask id="mantine-4unt5rj05" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-a3sr88fao" />
           </mask>
-          <mask id="mantine-nq3823rpi" fill="#fff">
+          <mask id="mantine-7opyxi7qj" fill="#fff">
             <path
               fillRule="evenodd"
               d="M3.414 9.662c1.565 0 2.834-2.015 2.834-4.5 0-2.486-1.269-4.5-2.834-4.5S.581 2.676.581 5.162c0 2.485 1.269 4.5 2.833 4.5z"
             />
           </mask>
-          <path id="mantine-yudt0cg8t" d="M0 0h32v24H0z" />
+          <path id="mantine-a3sr88fao" d="M0 0h32v24H0z" />
         </defs>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-ajgnr2cfq)">
-          <use fill="#2e42a5" xlinkHref="#mantine-yudt0cg8t" />
-          <path fill="#feca00" d="M0 0h32v12H0z" mask="url(#mantine-xbqkcryop)" />
-          <path fill="#e31d1c" d="M0 18h32v6H0z" mask="url(#mantine-xbqkcryop)" />
-          <g mask="url(#mantine-xbqkcryop)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-5ch6z4pcx)">
+          <use fill="#2e42a5" xlinkHref="#mantine-a3sr88fao" />
+          <path fill="#feca00" d="M0 0h32v12H0z" mask="url(#mantine-4unt5rj05)" />
+          <path fill="#e31d1c" d="M0 18h32v6H0z" mask="url(#mantine-4unt5rj05)" />
+          <g mask="url(#mantine-4unt5rj05)">
             <path
               fill="#7b2900"
               d="M9.717 5.714C12.487 4.462 14 3.908 14.251 4.05c.378.213.469.821.795.821.326 0 .983-.192 1.257-.192.183 0 .364.064.545.192h1.17v-.65l5.309 1.493c-2.064.27-3.174.405-3.33.405-.155 0-.155.11 0 .333-.294-.222-.665-.333-1.113-.333s-1.127.231-2.036.694l.496 1.066-.496.314-.545-.314c.023-.584-.043-.876-.2-.876-.234 0-.405.563-.405.876 0 .21-.218.314-.652.314l.291-.587c.193-.649.096-.973-.29-.973s-1.463-.171-3.226-.514l-.676.333.242-.738z"
@@ -110,19 +110,19 @@ export function ECFlag({ radius, className, size, ...others }: FlagProps) {
             <path
               fill="#6fae21"
               d="M.346 5.235h1.612c.74.164.924.31.555.439-.555.193-.555.257-.555.532v1.5c0 .215.395.676-.436.676-.554 0-1.07-1.139-1.547-3.416z"
-              mask="url(#mantine-nq3823rpi)"
+              mask="url(#mantine-7opyxi7qj)"
               transform="translate(12.533 7.375)"
             />
             <path
               fill="#6fae21"
               d="M6.646 5.42c-.999.198-1.84.263-2.524.198-.684-.066-1.176-.132-1.476-.198.476.248.8.476.969.684.254.312.775.85 1.305.85s1.344.504 1.344.504l.382-2.038z"
-              mask="url(#mantine-nq3823rpi)"
+              mask="url(#mantine-7opyxi7qj)"
               transform="translate(12.533 7.375)"
             />
             <path
               fill="#f7fcff"
               d="M.785 2.76c.824.16 1.334.358 1.532.596.298.358-.392.715 1.407.358s3.227-.98 3.227 0-.158 1.883-.932 1.883H2.575c-2.36 0-3.648.723-3.482-.44.11-.774.674-1.573 1.692-2.396z"
-              mask="url(#mantine-nq3823rpi)"
+              mask="url(#mantine-7opyxi7qj)"
               transform="translate(12.533 7.375)"
             />
           </g>

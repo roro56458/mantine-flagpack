@@ -13,50 +13,50 @@ export function AIFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
         <defs>
-          <mask id="mantine-b4pe1qane" fill="#fff">
+          <mask id="mantine-v98hm1fop" fill="#fff">
             <path fillRule="evenodd" d="M0 0h32v24H0z" />
           </mask>
-          <mask id="mantine-w9rb6fbdj" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-fee1q2mq1" />
+          <mask id="mantine-ggrv2hvwb" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-9dz2ajrps" />
           </mask>
-          <mask id="mantine-xu9e8k4hq" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-9vmjnm6yl" />
+          <mask id="mantine-j8w3nau9f" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-khzkq0ao9" />
           </mask>
-          <mask id="mantine-ip9384gva" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-nw56ljxuh" />
+          <mask id="mantine-2bnsoawjj" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-bjb767zrq" />
           </mask>
-          <path id="mantine-fee1q2mq1" d="M0 0h32v24H0z" />
+          <path id="mantine-9dz2ajrps" d="M0 0h32v24H0z" />
           <path
-            id="mantine-9vmjnm6yl"
+            id="mantine-khzkq0ao9"
             d="M.063.205C.09 3.14.2 5.063.39 5.97c.285 1.36 2.157 4.957 3.888 4.957 1.731 0 3.572-3.266 4.01-4.957.293-1.128.43-3.05.414-5.765a4.663 4.663 0 01-2.175.522c-.779 0-1.529-.232-2.25-.697C3.52.495 2.8.727 2.117.727S.75.553.063.205z"
           />
-          <path id="mantine-nw56ljxuh" d="M0 0h18v14H0z" />
+          <path id="mantine-bjb767zrq" d="M0 0h18v14H0z" />
         </defs>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-b4pe1qane)">
-          <use fill="#2e42a5" xlinkHref="#mantine-fee1q2mq1" />
-          <g mask="url(#mantine-w9rb6fbdj)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-v98hm1fop)">
+          <use fill="#2e42a5" xlinkHref="#mantine-9dz2ajrps" />
+          <g mask="url(#mantine-ggrv2hvwb)">
             <path
               fill="#fbe625"
               fillRule="nonzero"
               d="M21.163 12.205c.027 2.936.136 4.858.326 5.765.285 1.36 2.157 4.957 3.888 4.957 1.731 0 3.572-3.266 4.01-4.957.293-1.128.43-3.05.414-5.765a4.663 4.663 0 01-2.175.522c-.778 0-1.528-.232-2.249-.696-.757.464-1.477.696-2.16.696s-1.367-.174-2.054-.522zm-.217.002l-.003-.35.322.162c.656.333 1.306.498 1.952.498.638 0 1.319-.22 2.044-.663l.119-.073.118.075c.686.442 1.394.661 2.128.661a4.44 4.44 0 002.072-.497l.318-.164.002.348c.017 2.732-.122 4.667-.42 5.816-.24.929-.846 2.188-1.552 3.181-.86 1.21-1.783 1.936-2.669 1.936-.882 0-1.805-.78-2.669-2.064-.687-1.021-1.272-2.294-1.432-3.062-.194-.924-.303-2.854-.33-5.804z"
             />
             <g transform="translate(21.1 12)">
-              <use fill="#f5fbff" xlinkHref="#mantine-9vmjnm6yl" />
+              <use fill="#f5fbff" xlinkHref="#mantine-khzkq0ao9" />
               <path
                 fill="#ff9800"
                 d="M4.742 2.874c-.078-.31.497.202.649.283.152.08.11.064.389.088 1.035.052 1.165.604 1.25.72s.033.386.385.502c.235.077.43.302.585.676-.505-.34-.762-.344-.77-.013-.012.496-1.02 1.09-1.32 1.486s-.095.702-.143.792-.122.186-.188.151-.043-.539.004-.773c.048-.234-.333.002-.495.05-.162.047-.794-.166-.3-.214s1.012-.43 1.28-.849c.268-.418.23-1.145-.086-1.397-.21-.168-.396-.047-.56.365-.022-.048-.021-.146.001-.295a.601.601 0 01.197-.37c-.254-.135-.8-.89-.878-1.202zm-2.77.66c.048-.162.571-.576.342-.136-.23.44-.19 1.084.014 1.536s.836.816 1.22.69c.255-.085.254-.308-.001-.67.051.009.133.063.246.163.113.1.18.222.203.366.251-.14 1.183-.186 1.486-.082.303.104-.44.307-.59.39-.151.084-.115.059-.286.279-.607.84-1.141.648-1.285.655-.143.007-.342-.182-.63.051-.193.155-.488.196-.886.122.56-.239.703-.452.43-.639-.41-.28-.36-1.45-.528-1.915-.168-.466-.536-.463-.585-.552-.05-.09-.09-.204-.025-.24s.476.257.646.424c.17.168.18-.28.229-.442zM3.364.886c-.062.606.054.834.35.686.444-.223 1.442.388 1.931.467.49.079.666-.245.767-.245s.222.02.222.095c0 .074-.455.292-.684.36s.157.293.275.414c.119.12.227.779-.046.364-.274-.414-.856-.69-1.351-.731-.495-.04-1.12.335-1.194.731-.05.265.145.373.585.324-.032.042-.119.087-.26.137a.601.601 0 01-.42 0c0 .288-.41 1.125-.648 1.34-.238.214-.056-.534-.056-.706 0-.172.005-.128-.105-.384-.44-.939-.013-1.313.05-1.442.064-.129.325-.211.262-.576-.043-.244.065-.522.322-.834z"
-                mask="url(#mantine-xu9e8k4hq)"
+                mask="url(#mantine-j8w3nau9f)"
               />
               <path
                 fill="#36c6ff"
                 d="M.326 7.752h7.279v3.458H.325z"
-                mask="url(#mantine-xu9e8k4hq)"
+                mask="url(#mantine-j8w3nau9f)"
               />
             </g>
           </g>
-          <g mask="url(#mantine-w9rb6fbdj)">
-            <use fill="#2b409a" xlinkHref="#mantine-nw56ljxuh" />
-            <g mask="url(#mantine-ip9384gva)">
+          <g mask="url(#mantine-ggrv2hvwb)">
+            <use fill="#2b409a" xlinkHref="#mantine-bjb767zrq" />
+            <g mask="url(#mantine-2bnsoawjj)">
               <g fillRule="nonzero">
                 <path
                   fill="#f7fcff"

@@ -13,18 +13,18 @@ export function SMFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
         <defs>
-          <mask id="mantine-5jcnkesol" fill="#fff">
+          <mask id="mantine-qqcczurvp" fill="#fff">
             <path fillRule="evenodd" d="M0 0h32v24H0z" />
           </mask>
-          <mask id="mantine-vlo3hh6a1" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-cyidm0g0b" />
+          <mask id="mantine-pbb1h20yn" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-zrcqe5nxo" />
           </mask>
-          <path id="mantine-cyidm0g0b" d="M0 0h32v24H0z" />
+          <path id="mantine-zrcqe5nxo" d="M0 0h32v24H0z" />
         </defs>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-5jcnkesol)">
-          <use fill="#f7fcff" xlinkHref="#mantine-cyidm0g0b" />
-          <path fill="#56c6f5" d="M0 12h32v12H0z" mask="url(#mantine-vlo3hh6a1)" />
-          <g mask="url(#mantine-vlo3hh6a1)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-qqcczurvp)">
+          <use fill="#f7fcff" xlinkHref="#mantine-zrcqe5nxo" />
+          <path fill="#56c6f5" d="M0 12h32v12H0z" mask="url(#mantine-pbb1h20yn)" />
+          <g mask="url(#mantine-pbb1h20yn)">
             <path
               fill="#006923"
               d="M11.705 15.816c.449.216.794.47 1.036.764-.94.877-1.628 1.13-2.064.762-.652-.553-1.6-.607-1.927-.58-.217.018.084-.133.904-.454l-1.105-.492c1.655-.216 2.707-.216 3.156 0zm-.498-3.616c.064.44.275.806.635 1.1.36.294.42 1.071.18 2.332-.224-.165-.495-.43-.815-.791-.32-.362-.32-1.243 0-2.641zm-.53 2.333a331.348 331.348 0 01.643.589c-.748.278-1.24.278-1.474 0-.353-.418-.895-.889-1.382-.889-.487 0 1.323-.514 2.213.3zm-2.673-2.748c.308.263.664.393 1.067.39s.916.492 1.537 1.481c-.24.013-.571-.013-.991-.08-.42-.066-.958-.663-1.613-1.79zm3.33-1.98c.015 1.295-.111 2.088-.376 2.381-.266.293-.485.502-.658.627a16 16 0 01.013-.403 4.725 4.725 0 01-.824-.265c-.367-.146-.827-.804-1.382-1.974.265.304.574.496.927.576.354.08.794.638 1.321 1.674l-.038-.075c.049-.883.194-1.421.437-1.616.282-.227.476-.535.58-.924zm.763-3.053c-.208.249-.34.515-.396.797.2-.155.43-.321.687-.497-.259.31-.4.644-.424 1.006s-.506.883-1.446 1.566a3.53 3.53 0 01.068-.57c-.11.087-.23.177-.359.27l.04-.029a3.774 3.774 0 01-.172.802c.064.355.085.836.063 1.443-.166-.135-.374-.355-.624-.66s-.333-1.106-.251-2.398c.048.228.128.43.239.607.102-.368.27-.82.503-1.353-.056.4.002.759.174 1.078.027.05.046.111.058.181.021-.16.057-.35.107-.57.087-.384.665-.942 1.733-1.673z"

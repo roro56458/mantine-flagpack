@@ -12,10 +12,10 @@ export function LYFlag({ radius, className, size, ...others }: FlagProps) {
       {...others}
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
-        <mask id="mantine-sw7n7o0mr" fill="#fff">
+        <mask id="mantine-m37wny6qs" fill="#fff">
           <path fillRule="evenodd" d="M0 0h32v24H0z" />
         </mask>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-sw7n7o0mr)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-m37wny6qs)">
           <path fill="#55ba07" d="M0 18h32v4a2 2 0 01-2 2H2a2 2 0 01-2-2z" />
           <path fill="#1d1d1d" d="M0 6h32v12H0z" />
           <path fill="#e11c1b" d="M2 0h28a2 2 0 012 2v4H0V2a2 2 0 012-2z" />

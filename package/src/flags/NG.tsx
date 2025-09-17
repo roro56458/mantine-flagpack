@@ -12,10 +12,10 @@ export function NGFlag({ radius, className, size, ...others }: FlagProps) {
       {...others}
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
-        <mask id="mantine-8qaene3te" fill="#fff">
+        <mask id="mantine-8fu5v88zx" fill="#fff">
           <path fillRule="evenodd" d="M0 0h32v24H0z" />
         </mask>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-8qaene3te)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-8fu5v88zx)">
           <path fill="#f7fcff" d="M0 0h32v24H0z" />
           <path fill="#093" d="M21 0h11v24H21zM0 0h11v24H0z" />
         </g>

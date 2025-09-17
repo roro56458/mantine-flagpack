@@ -13,19 +13,19 @@ export function IRFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
         <defs>
-          <mask id="mantine-f8qvma3ya" fill="#fff">
+          <mask id="mantine-o2lx3l1zl" fill="#fff">
             <path fillRule="evenodd" d="M0 0h32v24H0z" />
           </mask>
-          <mask id="mantine-v1cdvofqz" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-kea0s7taw" />
+          <mask id="mantine-umh1t3wu8" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-13ls3v2g9" />
           </mask>
-          <path id="mantine-kea0s7taw" d="M0 0h32v24H0z" />
+          <path id="mantine-13ls3v2g9" d="M0 0h32v24H0z" />
         </defs>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-f8qvma3ya)">
-          <use fill="#f7fcff" xlinkHref="#mantine-kea0s7taw" />
-          <path fill="#5eaa22" d="M0 0h32v8H0z" mask="url(#mantine-v1cdvofqz)" />
-          <path fill="#e31d1c" d="M0 16h32v8H0z" mask="url(#mantine-v1cdvofqz)" />
-          <g mask="url(#mantine-v1cdvofqz)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-o2lx3l1zl)">
+          <use fill="#f7fcff" xlinkHref="#mantine-13ls3v2g9" />
+          <path fill="#5eaa22" d="M0 0h32v8H0z" mask="url(#mantine-umh1t3wu8)" />
+          <path fill="#e31d1c" d="M0 16h32v8H0z" mask="url(#mantine-umh1t3wu8)" />
+          <g mask="url(#mantine-umh1t3wu8)">
             <path
               fill="#f7fcff"
               fillRule="nonzero"

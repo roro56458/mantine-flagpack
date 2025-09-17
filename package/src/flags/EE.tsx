@@ -13,18 +13,18 @@ export function EEFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
         <defs>
-          <mask id="mantine-7bulofjjn" fill="#fff">
+          <mask id="mantine-bm2fabuc5" fill="#fff">
             <path fillRule="evenodd" d="M0 0h32v24H0z" />
           </mask>
-          <mask id="mantine-lao7ly7bb" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-328leieju" />
+          <mask id="mantine-4gyp6jqm7" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-7md1959km" />
           </mask>
-          <path id="mantine-328leieju" d="M0 0h32v24H0z" />
+          <path id="mantine-7md1959km" d="M0 0h32v24H0z" />
         </defs>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-7bulofjjn)">
-          <use fill="#f7fcff" xlinkHref="#mantine-328leieju" />
-          <path fill="#40a8ff" d="M0 0h32v8H0z" mask="url(#mantine-lao7ly7bb)" />
-          <path fill="#272727" d="M0 8h32v8H0z" mask="url(#mantine-lao7ly7bb)" />
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-bm2fabuc5)">
+          <use fill="#f7fcff" xlinkHref="#mantine-7md1959km" />
+          <path fill="#40a8ff" d="M0 0h32v8H0z" mask="url(#mantine-4gyp6jqm7)" />
+          <path fill="#272727" d="M0 8h32v8H0z" mask="url(#mantine-4gyp6jqm7)" />
         </g>
       </svg>
     </Box>

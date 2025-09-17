@@ -13,23 +13,23 @@ export function BOFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
         <defs>
-          <mask id="mantine-rk0oe4axi" fill="#fff">
+          <mask id="mantine-djk3vbzfy" fill="#fff">
             <path fillRule="evenodd" d="M0 0h32v24H0z" />
           </mask>
-          <mask id="mantine-kpqydxla9" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-p98t7gndk" />
+          <mask id="mantine-ilvbg7v5b" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-3x9kvt89h" />
           </mask>
-          <mask id="mantine-bufyciiu3" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-u8fps9l1o" />
+          <mask id="mantine-kgw1tpm8q" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-jx5iwgrjn" />
           </mask>
-          <ellipse id="mantine-u8fps9l1o" cx="1.854" cy="2.09" rx="1.854" ry="2.09" />
-          <path id="mantine-p98t7gndk" d="M0 0h32v24H0z" />
+          <ellipse id="mantine-jx5iwgrjn" cx="1.854" cy="2.09" rx="1.854" ry="2.09" />
+          <path id="mantine-3x9kvt89h" d="M0 0h32v24H0z" />
         </defs>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-rk0oe4axi)">
-          <use fill="#feca00" xlinkHref="#mantine-p98t7gndk" />
-          <path fill="#db501c" d="M0 0h32v8H0z" mask="url(#mantine-kpqydxla9)" />
-          <path fill="#5eaa22" d="M0 16h32v8H0z" mask="url(#mantine-kpqydxla9)" />
-          <g mask="url(#mantine-kpqydxla9)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-djk3vbzfy)">
+          <use fill="#feca00" xlinkHref="#mantine-3x9kvt89h" />
+          <path fill="#db501c" d="M0 0h32v8H0z" mask="url(#mantine-ilvbg7v5b)" />
+          <path fill="#5eaa22" d="M0 16h32v8H0z" mask="url(#mantine-ilvbg7v5b)" />
+          <g mask="url(#mantine-ilvbg7v5b)">
             <g fillRule="nonzero">
               <path fill="#864c26" d="M12.446 9.96l.036-.036 7.22 6.945-.036.035z" />
               <path fill="#864c26" d="M20.221 16.417l-.03.04-8.4-6.17.031-.04z" />
@@ -130,16 +130,16 @@ export function BOFlag({ radius, className, size, ...others }: FlagProps) {
               d="M15.974 14.91c1.024 0 1.854-.935 1.854-2.09s-.83-2.089-1.854-2.089-1.854.936-1.854 2.09.83 2.09 1.854 2.09zm0 .548c-1.358 0-2.42-1.198-2.42-2.637s1.062-2.637 2.42-2.637 2.42 1.198 2.42 2.637-1.062 2.637-2.42 2.637z"
             />
             <g transform="translate(14.12 10.731)">
-              <use fill="#ffc036" xlinkHref="#mantine-u8fps9l1o" />
+              <use fill="#ffc036" xlinkHref="#mantine-jx5iwgrjn" />
               <path
                 fill="#d52c1e"
                 d="M1.854 1.716l-.24.497.005-.548-.44.346.252-.491-.551.127.447-.337-.554-.116.554-.116L.88.74l.551.127-.251-.49.44.345-.007-.548.241.497.24-.497-.005.548.44-.346-.252.491.552-.127-.448.337.555.116-.555.116.448.337-.552-.127.251.49-.44-.345.007.548z"
-                mask="url(#mantine-bufyciiu3)"
+                mask="url(#mantine-kgw1tpm8q)"
               />
               <path
                 fill="#027934"
                 d="M-.079 2.21c.967-.68 1.569-1.021 1.806-1.021.356 0 1.876 1.026 2.187 1.166.207.093.207 1.052 0 2.878H-.2z"
-                mask="url(#mantine-bufyciiu3)"
+                mask="url(#mantine-kgw1tpm8q)"
               />
             </g>
             <path

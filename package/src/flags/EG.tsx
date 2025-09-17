@@ -13,19 +13,19 @@ export function EGFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
         <defs>
-          <mask id="mantine-0p3oxscuu" fill="#fff">
+          <mask id="mantine-hdhokt4rh" fill="#fff">
             <path fillRule="evenodd" d="M0 0h32v24H0z" />
           </mask>
-          <mask id="mantine-ar61ir1w4" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-nef8un68f" />
+          <mask id="mantine-i7lsoenuh" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-7v2odvu6k" />
           </mask>
-          <path id="mantine-nef8un68f" d="M0 0h32v24H0z" />
+          <path id="mantine-7v2odvu6k" d="M0 0h32v24H0z" />
         </defs>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-0p3oxscuu)">
-          <use fill="#f7fcff" xlinkHref="#mantine-nef8un68f" />
-          <path fill="#bf2714" d="M0 0h32v8H0z" mask="url(#mantine-ar61ir1w4)" />
-          <path fill="#272727" d="M0 16h32v8H0z" mask="url(#mantine-ar61ir1w4)" />
-          <g fill="#c09302" fillRule="nonzero" mask="url(#mantine-ar61ir1w4)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-hdhokt4rh)">
+          <use fill="#f7fcff" xlinkHref="#mantine-7v2odvu6k" />
+          <path fill="#bf2714" d="M0 0h32v8H0z" mask="url(#mantine-i7lsoenuh)" />
+          <path fill="#272727" d="M0 16h32v8H0z" mask="url(#mantine-i7lsoenuh)" />
+          <g fill="#c09302" fillRule="nonzero" mask="url(#mantine-i7lsoenuh)">
             <path d="M12.26 10.22l1 .046-.251 5.47-1-.046zm1.044.34l.998.056-.25 4.436-.999-.057z" />
             <path d="M14.348 10.892l.997.082-.25 3.056-.997-.082zm5.392-.672l-1 .046.251 5.47 1-.046zm-1.044.34l-.998.056.25 4.436.999-.057z" />
             <path d="M17.652 10.892l-.997.082.25 3.056.997-.082zm-1.679 4.435L15 15.103l.412-1.8.975.223z" />

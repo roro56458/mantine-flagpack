@@ -13,7 +13,7 @@ export function SAFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 111 84">
         <mask
-          id="mantine-dtj0m68l2"
+          id="mantine-rpshm0t8w"
           style={{ maskType: 'alpha' }}
           width="111"
           height="84"
@@ -23,7 +23,7 @@ export function SAFlag({ radius, className, size, ...others }: FlagProps) {
         >
           <path fill="#fff" d="M0 0h111v83.25H0z" />
         </mask>
-        <g mask="url(#mantine-dtj0m68l2)">
+        <g mask="url(#mantine-rpshm0t8w)">
           <path fill="#67BD23" d="M0 0h111v83.25H0z" />
           <path
             fill="#fff"

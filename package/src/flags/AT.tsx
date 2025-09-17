@@ -13,17 +13,17 @@ export function ATFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
         <defs>
-          <mask id="mantine-0pbd2nhem" fill="#fff">
+          <mask id="mantine-algxncpzt" fill="#fff">
             <path fillRule="evenodd" d="M0 0h32v24H0z" />
           </mask>
-          <mask id="mantine-nn3zfce47" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-0v07qysgh" />
+          <mask id="mantine-xldaijbw1" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-4hnsfavnn" />
           </mask>
-          <path id="mantine-0v07qysgh" d="M0 0h32v24H0z" />
+          <path id="mantine-4hnsfavnn" d="M0 0h32v24H0z" />
         </defs>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-0pbd2nhem)">
-          <use fill="#f7fcff" xlinkHref="#mantine-0v07qysgh" />
-          <path fill="#c51918" d="M0 0h32v8H0zm0 16h32v8H0z" mask="url(#mantine-nn3zfce47)" />
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-algxncpzt)">
+          <use fill="#f7fcff" xlinkHref="#mantine-4hnsfavnn" />
+          <path fill="#c51918" d="M0 0h32v8H0zm0 16h32v8H0z" mask="url(#mantine-xldaijbw1)" />
         </g>
       </svg>
     </Box>

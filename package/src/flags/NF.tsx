@@ -12,10 +12,10 @@ export function NFFlag({ radius, className, size, ...others }: FlagProps) {
       {...others}
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
-        <mask id="mantine-8c7mhwqhl" fill="#fff">
+        <mask id="mantine-c766gn4mf" fill="#fff">
           <path fillRule="evenodd" d="M0 0h32v24H0z" />
         </mask>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-8c7mhwqhl)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-c766gn4mf)">
           <path fill="#409100" d="M22 0h10v24H22zM0 0h10v24H0z" />
           <path fill="#fff" d="M10 0h12v24H10z" />
           <path

@@ -13,17 +13,17 @@ export function KZFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
         <defs>
-          <mask id="mantine-zwp0n44d8" fill="#fff">
+          <mask id="mantine-bs5jdkjoi" fill="#fff">
             <path fillRule="evenodd" d="M0 0h32v24H0z" />
           </mask>
-          <mask id="mantine-hb3o3pgav" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-ywbywewsh" />
+          <mask id="mantine-ugggdovm1" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-7qhwlm767" />
           </mask>
-          <path id="mantine-ywbywewsh" d="M0 0h32v24H0z" />
+          <path id="mantine-7qhwlm767" d="M0 0h32v24H0z" />
         </defs>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-zwp0n44d8)">
-          <use fill="#4ec7ee" xlinkHref="#mantine-ywbywewsh" />
-          <g mask="url(#mantine-hb3o3pgav)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-bs5jdkjoi)">
+          <use fill="#4ec7ee" xlinkHref="#mantine-7qhwlm767" />
+          <g mask="url(#mantine-ugggdovm1)">
             <path
               fill="#ffe402"
               fillRule="nonzero"

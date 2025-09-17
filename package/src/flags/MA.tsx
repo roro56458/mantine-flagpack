@@ -12,10 +12,10 @@ export function MAFlag({ radius, className, size, ...others }: FlagProps) {
       {...others}
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
-        <mask id="mantine-b1bwjggmj" fill="#fff">
+        <mask id="mantine-riirev5vh" fill="#fff">
           <path fillRule="evenodd" d="M0 0h32v24H0z" />
         </mask>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-b1bwjggmj)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-riirev5vh)">
           <path fill="#c51918" d="M0 0h32v22a2 2 0 01-2 2H2a2 2 0 01-2-2z" />
           <path fill="#e31d1c" d="M0 0h32v24H0z" />
           <g fill="#579d20" fillRule="nonzero">

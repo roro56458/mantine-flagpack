@@ -13,35 +13,35 @@ export function TMFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
         <defs>
-          <mask id="mantine-4gsmijtt1" fill="#fff">
+          <mask id="mantine-x5nqc640q" fill="#fff">
             <path fillRule="evenodd" d="M0 0h32v24H0z" />
           </mask>
-          <mask id="mantine-oiynmu04c" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-5emjey5t3" />
+          <mask id="mantine-jbuszshca" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-z9vndvexu" />
           </mask>
-          <mask id="mantine-kerq9cxdh" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-cfoadpkg8" />
+          <mask id="mantine-u4iqtd5yc" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-pu4a2vrla" />
           </mask>
-          <mask id="mantine-ckvogts2c" fill="#fff">
+          <mask id="mantine-w74fgws80" fill="#fff">
             <path
               fillRule="evenodd"
               d="M1.817.05l-1.772 1v1.655l1.772 1.04h1.919l1.814-1.04V1.05l-1.814-1z"
             />
           </mask>
-          <path id="mantine-5emjey5t3" d="M0 0h32v24H0z" />
-          <path id="mantine-cfoadpkg8" d="M0 .677h10V27H0z" />
+          <path id="mantine-z9vndvexu" d="M0 0h32v24H0z" />
+          <path id="mantine-pu4a2vrla" d="M0 .677h10V27H0z" />
         </defs>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-4gsmijtt1)">
-          <use fill="#29c470" xlinkHref="#mantine-5emjey5t3" />
-          <g mask="url(#mantine-oiynmu04c)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-x5nqc640q)">
+          <use fill="#29c470" xlinkHref="#mantine-z9vndvexu" />
+          <g mask="url(#mantine-jbuszshca)">
             <g transform="translate(2 -1)">
-              <use fill="#c51918" xlinkHref="#mantine-cfoadpkg8" />
+              <use fill="#c51918" xlinkHref="#mantine-pu4a2vrla" />
               <path
                 fill="#e8aa00"
                 d="M.168 17.393l.438.64-.113.125.269.274-.124.18-.083-.057.158.263.265-.204.338.567-.34.592-.196-.177v-.128l-.198.308.084.146-.07.218v.158L.048 21 0 20.951l.53-.68v-.137l.002-.013.061-.19-.037-.066-.313.313.603-.938v.32l.115.105.276-.483-.277-.465-.2.154.081.163-.055.038-.452-.755.288.197.05-.074-.275-.28.122-.134-.403-.588zm9.664 0l.052.045-.403.588.122.134-.275.28.05.074.288-.197-.452.755-.055-.038.08-.163-.2-.154-.276.465.276.483.115-.105v-.32l.603.938-.313-.313-.037.066.061.19.002.013v.136l.53.681-.05.049-.545-.702v-.158l-.071-.218.084-.146-.198-.308v.128l-.197.177-.339-.592.338-.567.265.204.158-.263-.083.056-.124-.18.27-.273-.114-.126zm0-4.137l.052.045-.403.588.122.134-.275.28.05.074.288-.196-.452.755-.055-.039.08-.163-.2-.153-.276.464.276.483.115-.104v-.32l.603.937-.313-.312-.037.066.061.19.002.012v.137l.53.68-.05.05-.545-.702v-.158l-.071-.218.084-.147-.198-.308v.128l-.197.178-.339-.593.338-.566.265.203.158-.263-.083.057-.124-.18.27-.274-.114-.125zm-9.664 0l.438.64-.113.125.269.274-.124.18-.083-.057.158.263.265-.203.338.566-.34.593-.196-.178v-.128l-.198.308.084.147-.07.218v.158l-.547.701L0 16.815l.53-.681v-.137l.002-.012.061-.19-.037-.066-.313.312.603-.938v.32l.115.105.276-.483-.277-.464-.2.153.081.163-.055.039-.452-.755.288.196.05-.073-.275-.28.122-.135-.403-.588zm9.664-4.653l.052.045-.403.587.122.135-.275.28.05.074.288-.197-.452.755-.055-.039.08-.162-.2-.154-.276.465.276.483.115-.105v-.32l.603.938-.313-.313-.037.066.061.19.002.013v.136l.53.681-.05.049-.545-.702v-.158l-.071-.218.084-.146-.198-.308v.128l-.197.177-.339-.592.338-.567.265.204.158-.263-.083.056-.124-.18.27-.273-.114-.126zm-9.664 0l.438.64-.113.125.269.273-.124.18-.083-.056.158.263.265-.204.338.567-.34.592-.196-.177v-.128l-.198.308.084.146-.07.218v.158l-.547.702L0 12.16l.53-.68v-.137l.002-.013.061-.19-.037-.066-.313.313.603-.938v.32l.115.105.276-.483-.277-.465-.2.154.081.162-.055.04-.452-.756.288.197.05-.074-.275-.28.122-.135-.403-.587zm9.664-4.58l.052.045-.403.588.122.134-.275.28.05.074.288-.197-.452.755-.055-.038.08-.163-.2-.154-.276.465.276.483.115-.104V5.87l.603.938-.313-.312-.037.066.061.19.002.012v.137l.53.68-.05.05-.545-.702V6.77l-.071-.218.084-.147-.198-.308v.128l-.197.178-.339-.593.338-.567.265.204.158-.263-.083.056-.124-.18.27-.273-.114-.125zm-9.664 0l.438.64-.113.125.269.274-.124.18-.083-.057.158.263.265-.204.338.567-.34.593-.196-.178v-.128l-.198.308.084.147-.07.218v.158l-.547.701L0 7.582.53 6.9v-.137l.002-.013.061-.19-.037-.065-.313.312.603-.938v.32l.115.105.276-.483-.277-.465-.2.154.081.163-.055.038-.452-.755.288.197.05-.073-.275-.281.122-.134-.403-.588zM.168-1l.438.64-.113.125.269.274-.124.18L.555.161l.158.263L.978.22l.338.567-.34.593-.196-.178v-.128l-.198.308.084.147-.07.218v.158l-.547.701L0 2.56l.53-.681V1.74l.002-.013.061-.19-.037-.065-.313.312.603-.938v.32l.115.105.276-.483L.96.324l-.2.154.081.163L.786.68.334-.075.622.12l.05-.073-.275-.28.122-.135-.403-.588zm9.664 0l.052.045-.403.588.122.134-.275.28.05.074.288-.196-.452.755L9.16.64l.08-.162-.2-.154-.276.465.276.483.115-.104v-.32l.603.937-.313-.312-.037.066.061.19.002.012v.137l.53.68-.05.05-.545-.702v-.158l-.071-.218.084-.147-.198-.308v.128l-.197.178-.339-.593.338-.567.265.204.158-.263-.083.056-.124-.18.27-.273-.114-.125z"
-                mask="url(#mantine-kerq9cxdh)"
+                mask="url(#mantine-u4iqtd5yc)"
               />
-              <g mask="url(#mantine-kerq9cxdh)">
+              <g mask="url(#mantine-u4iqtd5yc)">
                 <path
                   fill="#389f5d"
                   stroke="#e8aa00"
@@ -61,23 +61,23 @@ export function TMFlag({ radius, className, size, ...others }: FlagProps) {
                   d="M4.146 16.508v.148h.142v.204h-.142v.149h-.494v-.15l-.141.001v-.204h.14l.001-.148zm2.053 0v.148h.142v.204h-.142v.149h-.494v-.15l-.141.001v-.204h.14l.001-.148z"
                 />
               </g>
-              <g mask="url(#mantine-kerq9cxdh)">
+              <g mask="url(#mantine-u4iqtd5yc)">
                 <path
                   fill="#e8aa00"
                   fillRule="nonzero"
                   d="M.07 1.896h2.762v1.823H.07z"
-                  mask="url(#mantine-ckvogts2c)"
+                  mask="url(#mantine-w74fgws80)"
                   transform="translate(2.4 18.2)"
                 />
-                <g mask="url(#mantine-ckvogts2c)" transform="translate(2.4 18.2)">
+                <g mask="url(#mantine-w74fgws80)" transform="translate(2.4 18.2)">
                   <path fill="#f9e8e7" d="M-.212.073h3.044v1.823H-.212z" />
                   <path fill="#e8aa00" fillRule="nonzero" d="M.496 1.135l.916-.552v.552z" />
                 </g>
-                <g mask="url(#mantine-ckvogts2c)" transform="translate(2.4 18.2)">
+                <g mask="url(#mantine-w74fgws80)" transform="translate(2.4 18.2)">
                   <path fill="#e8aa00" d="M5.876.073H2.832v1.823h3.044z" />
                   <path fill="#f9e8e7" fillRule="nonzero" d="M4.956 1.135L4.039.583v.552z" />
                 </g>
-                <g mask="url(#mantine-ckvogts2c)" transform="translate(2.4 18.2)">
+                <g mask="url(#mantine-w74fgws80)" transform="translate(2.4 18.2)">
                   <path fill="#f9e8e7" d="M5.593 3.719H2.832V1.896h2.76z" />
                   <path fill="#e8aa00" fillRule="nonzero" d="M4.885 2.656l-.917.552v-.552z" />
                 </g>
@@ -85,7 +85,7 @@ export function TMFlag({ radius, className, size, ...others }: FlagProps) {
                   fill="#fcfcfc"
                   fillRule="nonzero"
                   d="M.496 3.104l.916-.552v.552z"
-                  mask="url(#mantine-ckvogts2c)"
+                  mask="url(#mantine-w74fgws80)"
                   transform="matrix(1 0 0 -1 2.4 23.845)"
                 />
                 <path
@@ -103,7 +103,7 @@ export function TMFlag({ radius, className, size, ...others }: FlagProps) {
                   />
                 </g>
               </g>
-              <g mask="url(#mantine-kerq9cxdh)">
+              <g mask="url(#mantine-u4iqtd5yc)">
                 <path
                   fill="#e8aa00"
                   fillRule="nonzero"
@@ -136,10 +136,10 @@ export function TMFlag({ radius, className, size, ...others }: FlagProps) {
               fill="#e8aa00"
               fillRule="nonzero"
               d="M7.939 22c.117.009.226 1.244-1.29 2.184a.486.486 0 01-.156.058c.27.003.626-.043.948-.138-.605.242-1.087.31-1.446.202a.943.943 0 00-.165-.053 1.628 1.628 0 00-.55-.015l.052-.005c.079.037.171.08.278.123v.044a2.418 2.418 0 00-.569-.14c-.1.013-.35.053-.563.14v-.044c.107-.044.199-.086.278-.123l.052.005a1.628 1.628 0 00-.55.015.943.943 0 00-.166.053c-.359.108-.84.04-1.445-.202.286.084.599.13.855.136a.473.473 0 01-.15-.056c-1.517-.94-1.408-2.175-1.29-2.184.091-.007.822 1.104 1.644 1.876.087.122.087.225 0 .308a.216.216 0 01-.112.058c.149-.004.271-.022.35-.055.07-.03.144-.055.223-.072.22-.05.433-.05.687-.023l.1.012a.7.7 0 00.04.004l.049.006.05-.006.012-.001.028-.003c.002 0 .074-.01.1-.012a2.01 2.01 0 01.688.023c.078.017.153.041.224.072a.78.78 0 00.235.048l-.04-.017-.046-.034c-.087-.083-.087-.186 0-.308.822-.772 1.553-1.883 1.645-1.876z"
-              mask="url(#mantine-kerq9cxdh)"
+              mask="url(#mantine-u4iqtd5yc)"
               transform="translate(2 -1)"
             />
-            <g mask="url(#mantine-kerq9cxdh)" transform="translate(2 -1)">
+            <g mask="url(#mantine-u4iqtd5yc)" transform="translate(2 -1)">
               <g transform="translate(2 10.6)">
                 <path
                   fill="#389f5d"
@@ -173,7 +173,7 @@ export function TMFlag({ radius, className, size, ...others }: FlagProps) {
                 />
               </g>
             </g>
-            <g mask="url(#mantine-kerq9cxdh)" transform="translate(2 -1)">
+            <g mask="url(#mantine-u4iqtd5yc)" transform="translate(2 -1)">
               <path
                 fill="#e8aa00"
                 fillRule="nonzero"
@@ -207,7 +207,7 @@ export function TMFlag({ radius, className, size, ...others }: FlagProps) {
               />
             </g>
           </g>
-          <g fill="#f7fcff" mask="url(#mantine-oiynmu04c)">
+          <g fill="#f7fcff" mask="url(#mantine-jbuszshca)">
             <path d="M19.073 2c1.554 3.681 1.64 6.303.26 7.867S15.51 12.06 12 11.759c4.504 2.035 7.738 1.651 9.7-1.15C23.663 7.808 22.787 4.94 19.073 2z" />
             <path d="M14.964 7.872l.246.718.751.015-.598.459.217.727-.616-.434-.617.434.218-.727-.599-.459.75-.015zm-1.875-1.949l.247.718.75.015-.598.46.218.727-.617-.434-.616.434.217-.728-.598-.459.75-.015zm1.875-.155l.246.718.751.016-.598.459.217.727-.616-.434-.617.434.218-.727-.599-.46.75-.015zM17 5.156l.247.717.75.016-.598.459.218.727L17 6.64l-.616.434.217-.727-.598-.46.75-.015zm-2.157-1.393l.247.718.75.015-.598.46.218.726-.617-.434-.616.434.217-.727-.598-.459.75-.015z" />
           </g>

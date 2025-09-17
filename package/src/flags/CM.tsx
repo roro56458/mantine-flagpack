@@ -12,10 +12,10 @@ export function CMFlag({ radius, className, size, ...others }: FlagProps) {
       {...others}
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
-        <mask id="mantine-f6l3dauwq" fill="#fff">
+        <mask id="mantine-p0sh0apa4" fill="#fff">
           <path fillRule="evenodd" d="M0 0h32v24H0z" />
         </mask>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-f6l3dauwq)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-p0sh0apa4)">
           <path fill="#e11c1b" d="M10 0h12v24H10z" />
           <path
             fill="#feca00"

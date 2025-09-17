@@ -12,58 +12,58 @@ export function PTFlag({ radius, className, size, ...others }: FlagProps) {
       {...others}
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
-        <mask id="mantine-qf0s5xsah" fill="#fff">
+        <mask id="mantine-mgsza20qo" fill="#fff">
           <path fillRule="evenodd" d="M0 0h32v24H0z" />
         </mask>
-        <mask id="mantine-cidypsx49" fill="#fff">
+        <mask id="mantine-0p0r0jyg8" fill="#fff">
           <path
             fillRule="evenodd"
             d="M7.905 15.807C3.645 15.807.19 12.312.19 8S3.644.193 7.905.193c4.26 0 7.714 3.495 7.714 7.807s-3.454 7.807-7.714 7.807z"
           />
         </mask>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-qf0s5xsah)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-mgsza20qo)">
           <path fill="#ef0000" d="M8 0h24v24H8z" />
           <path fill="#2f8d00" d="M0 0h12v24H0z" />
           <g fill="#ffe017">
             <path
               d="M7.429 0h1v2.699h-1zm0 13.494h1V16h-1z"
-              mask="url(#mantine-cidypsx49)"
+              mask="url(#mantine-0p0r0jyg8)"
               transform="translate(4 4)"
             />
             <path
               fillRule="nonzero"
               d="M.314 8.404l-.28-.718C3.12 6.455 5.45 5.66 7.03 5.303c2.318-.526 4.865-.914 7.641-1.167l.068.768c-2.744.25-5.259.633-7.543 1.151-1.533.347-3.83 1.13-6.88 2.349z"
-              mask="url(#mantine-cidypsx49)"
+              mask="url(#mantine-0p0r0jyg8)"
               transform="translate(4 4)"
             />
             <path
               fillRule="nonzero"
               d="M15.14 3.664l-.226.736c-2.332-.736-4.231-1.053-5.691-.955l-.05-.769c1.567-.105 3.554.226 5.968.988zm.808 4.116l-.431.636c-1.189-.826-2.653-1.24-4.404-1.24v-.771c1.898 0 3.512.457 4.835 1.375z"
-              mask="url(#mantine-cidypsx49)"
+              mask="url(#mantine-0p0r0jyg8)"
               transform="translate(4 4)"
             />
             <path
               fillRule="nonzero"
               d="M15.302 8.01l.197.745c-2.563.695-4.969 1.088-7.218 1.181-2.265.093-4.905-.302-7.922-1.183l.211-.74c2.944.859 5.505 1.242 7.68 1.153 2.19-.09 4.542-.475 7.052-1.155z"
-              mask="url(#mantine-cidypsx49)"
+              mask="url(#mantine-0p0r0jyg8)"
               transform="translate(4 4)"
             />
             <path
               fillRule="nonzero"
               d="M15.012 11.636l-1.205 1.235c-2.288-2.287-4.303-3.922-6.032-4.904-1.758-1-4.051-2.014-6.875-3.04l.579-1.633c2.907 1.056 5.284 2.108 7.135 3.16 1.88 1.068 4.009 2.795 6.398 5.182zm-13.554.699l-.456-.618a9.283 9.283 0 011.188-.722c.85-.431 1.703-.7 2.517-.725l.119-.002v.771c-.032 0-.064 0-.096.002-.686.02-1.439.258-2.198.644a8.529 8.529 0 00-1.074.65z"
-              mask="url(#mantine-cidypsx49)"
+              mask="url(#mantine-0p0r0jyg8)"
               transform="translate(4 4)"
             />
             <path
               fillRule="nonzero"
               d="M1.812 12.603l.192-.747c2.54.67 4.498 1.003 5.865 1.003 1.362 0 3.388-.394 6.067-1.183l.213.74c-2.742.808-4.83 1.214-6.28 1.214-1.444 0-3.46-.343-6.057-1.027zm-.99-6.909L2.03 4.462l1.767 1.774L2.59 7.468z"
-              mask="url(#mantine-cidypsx49)"
+              mask="url(#mantine-0p0r0jyg8)"
               transform="translate(4 4)"
             />
             <path
               fillRule="nonzero"
               d="M10.836 11.848l.898-1.478 2.803 1.744-.897 1.478z"
-              mask="url(#mantine-cidypsx49)"
+              mask="url(#mantine-0p0r0jyg8)"
               transform="translate(4 4)"
             />
           </g>

@@ -12,10 +12,10 @@ export function CNFlag({ radius, className, size, ...others }: FlagProps) {
       {...others}
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
-        <mask id="mantine-u9vavg3ox" fill="#fff">
+        <mask id="mantine-rx3xluccn" fill="#fff">
           <path fillRule="evenodd" d="M0 0h32v24H0z" />
         </mask>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-u9vavg3ox)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-rx3xluccn)">
           <path fill="#e31d1c" d="M0 0h32v24H0z" />
           <path
             fill="#feca00"

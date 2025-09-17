@@ -13,19 +13,19 @@ export function RSFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
         <defs>
-          <mask id="mantine-g98kehbv0" fill="#fff">
+          <mask id="mantine-ixmeaaqno" fill="#fff">
             <path fillRule="evenodd" d="M0 0h32v24H0z" />
           </mask>
-          <mask id="mantine-2xg9zjoz0" fill="#fff">
-            <use fillRule="evenodd" xlinkHref="#mantine-dbzubvqz2" />
+          <mask id="mantine-4k1mohfdi" fill="#fff">
+            <use fillRule="evenodd" xlinkHref="#mantine-0s8yie1gq" />
           </mask>
-          <path id="mantine-dbzubvqz2" d="M0 0h32v24H0z" />
+          <path id="mantine-0s8yie1gq" d="M0 0h32v24H0z" />
         </defs>
-        <g fill="none" fillRule="evenodd" mask="url(#mantine-g98kehbv0)">
-          <use fill="#4857a1" xlinkHref="#mantine-dbzubvqz2" />
-          <path fill="#c51918" d="M0 0h32v8H0z" mask="url(#mantine-2xg9zjoz0)" />
-          <path fill="#f7fcff" d="M0 16h32v8H0z" mask="url(#mantine-2xg9zjoz0)" />
-          <g mask="url(#mantine-2xg9zjoz0)">
+        <g fill="none" fillRule="evenodd" mask="url(#mantine-ixmeaaqno)">
+          <use fill="#4857a1" xlinkHref="#mantine-0s8yie1gq" />
+          <path fill="#c51918" d="M0 0h32v8H0z" mask="url(#mantine-4k1mohfdi)" />
+          <path fill="#f7fcff" d="M0 16h32v8H0z" mask="url(#mantine-4k1mohfdi)" />
+          <g mask="url(#mantine-4k1mohfdi)">
             <path
               fill="#f6c540"
               fillRule="nonzero"

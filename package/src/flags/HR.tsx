@@ -13,7 +13,7 @@ export function HRFlag({ radius, className, size, ...others }: FlagProps) {
     >
       <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 32 24">
         <mask
-          id="mantine-7m60bjq2q"
+          id="mantine-0thdf3eba"
           style={{ maskType: 'alpha' }}
           width="32"
           height="24"
@@ -23,10 +23,10 @@ export function HRFlag({ radius, className, size, ...others }: FlagProps) {
         >
           <path fill="#fff" d="M0 0h32v24H0z" />
         </mask>
-        <g mask="url(#mantine-7m60bjq2q)">
+        <g mask="url(#mantine-0thdf3eba)">
           <path fill="#F7FCFF" fillRule="evenodd" d="M0 0v24h32V0H0z" clipRule="evenodd" />
           <mask
-            id="mantine-xsx5wn5i5"
+            id="mantine-x9gfcpyoi"
             style={{ maskType: 'alpha' }}
             width="32"
             height="24"
@@ -36,7 +36,7 @@ export function HRFlag({ radius, className, size, ...others }: FlagProps) {
           >
             <path fill="#fff" fillRule="evenodd" d="M0 0v24h32V0H0z" clipRule="evenodd" />
           </mask>
-          <g mask="url(#mantine-xsx5wn5i5)">
+          <g mask="url(#mantine-x9gfcpyoi)">
             <path fill="#E31D1C" fillRule="evenodd" d="M0 0v8h32V0H0z" clipRule="evenodd" />
             <path fill="#3D58DB" fillRule="evenodd" d="M0 16v8h32v-8H0z" clipRule="evenodd" />
             <path fill="#E31D1C" d="M10.076 6.397h11.4v4h-11.4z" />
@@ -47,7 +47,7 @@ export function HRFlag({ radius, className, size, ...others }: FlagProps) {
               d="M10.652 8.96h10.129c.017.769.022 2.11.022 3.401a638.27 638.27 0 01-.008 2.945v.226l-.001.003a4.943 4.943 0 01-.147.59 5.458 5.458 0 01-.692 1.434c-.694 1.014-1.955 2.056-4.305 2.056-2.347 0-3.547-1.04-4.186-2.045a5.166 5.166 0 01-.738-2.019l-.002-.016v-.045l-.003-.196-.008-.709-.026-2.22c-.015-1.27-.029-2.612-.035-3.405zm.07 6.558s0 0 0 0h0z"
             />
             <mask
-              id="mantine-3tguppg6p"
+              id="mantine-3u97ojjcr"
               style={{ maskType: 'alpha' }}
               width="12"
               height="13"
@@ -62,7 +62,7 @@ export function HRFlag({ radius, className, size, ...others }: FlagProps) {
                 d="M10.652 8.96h10.129c.017.769.022 2.11.022 3.401a638.27 638.27 0 01-.008 2.945v.226l-.001.003a4.943 4.943 0 01-.147.59 5.458 5.458 0 01-.692 1.434c-.694 1.014-1.955 2.056-4.305 2.056-2.347 0-3.547-1.04-4.186-2.045a5.166 5.166 0 01-.738-2.019l-.002-.016v-.045l-.003-.196-.008-.709-.026-2.22c-.015-1.27-.029-2.612-.035-3.405zm.07 6.558s0 0 0 0h0z"
               />
             </mask>
-            <g mask="url(#mantine-3tguppg6p)">
+            <g mask="url(#mantine-3u97ojjcr)">
               <path
                 fill="#F50100"
                 fillRule="evenodd"
@@ -109,7 +109,7 @@ export function HRFlag({ radius, className, size, ...others }: FlagProps) {
               d="M12.445 7.605l-.072-.245-.867-2.944-.041-.14.1-.104 1.24-1.284.149-.154.175.124 1.363.968.094.067.01.115.252 2.925.023.26-.261.01h0l-.002.001h-.004l-.018.001-.068.003-.233.014a9.107 9.107 0 00-.604.057 5.563 5.563 0 00-.63.143 12.054 12.054 0 00-.336.098l-.02.006-.006.001h0-.001 0l-.243.078zm0 0l.243-.077-.243.077z"
             />
             <mask
-              id="mantine-canysy5fn"
+              id="mantine-wjx6n76kk"
               style={{ maskType: 'alpha' }}
               width="5"
               height="6"
@@ -124,7 +124,7 @@ export function HRFlag({ radius, className, size, ...others }: FlagProps) {
                 d="M12.445 7.605l-.072-.245-.867-2.944-.041-.14.1-.104 1.24-1.284.149-.154.175.124 1.363.968.094.067.01.115.252 2.925.023.26-.261.01h0l-.002.001h-.004l-.018.001-.068.003-.233.014a9.107 9.107 0 00-.604.057 5.563 5.563 0 00-.63.143 12.054 12.054 0 00-.336.098l-.02.006-.006.001h0-.001 0l-.243.078zm0 0l.243-.077-.243.077z"
               />
             </mask>
-            <g fill="#C51918" mask="url(#mantine-canysy5fn)">
+            <g fill="#C51918" mask="url(#mantine-wjx6n76kk)">
               <path d="M12.436 6.638l-.25-.59c.538-.236 1.447-.38 2.403-.437l.037.642c-.89.052-1.73.184-2.19.385zm-.422-1.428l-.25-.59c.537-.235 1.694-.426 2.65-.482l.037.641c-.89.053-1.978.23-2.437.431z" />
             </g>
             <path
@@ -134,7 +134,7 @@ export function HRFlag({ radius, className, size, ...others }: FlagProps) {
               d="M18.969 7.607l.068-.252.795-2.949.036-.132-.092-.102-1.168-1.279-.15-.163-.18.128-1.362.968-.095.067-.01.115-.252 2.925-.022.26.261.01h0l.002.001h.004l.018.001.068.003.232.014c.188.012.42.031.605.057.177.025.422.085.63.143a11.92 11.92 0 01.336.098l.02.006.005.001h.002l.249.08zm0 0l-.25-.08.25.08z"
             />
             <mask
-              id="mantine-9rlrk2lqb"
+              id="mantine-idg1r3vtx"
               style={{ maskType: 'alpha' }}
               width="5"
               height="6"
@@ -149,7 +149,7 @@ export function HRFlag({ radius, className, size, ...others }: FlagProps) {
                 d="M18.969 7.607l.068-.252.795-2.949.036-.132-.092-.102-1.168-1.279-.15-.163-.18.128-1.362.968-.095.067-.01.115-.252 2.925-.022.26.261.01h0l.002.001h.004l.018.001.068.003.232.014c.188.012.42.031.605.057.177.025.422.085.63.143a11.92 11.92 0 01.336.098l.02.006.005.001h.002l.249.08zm0 0l-.25-.08.25.08z"
               />
             </mask>
-            <g fillRule="evenodd" clipRule="evenodd" mask="url(#mantine-9rlrk2lqb)">
+            <g fillRule="evenodd" clipRule="evenodd" mask="url(#mantine-idg1r3vtx)">
               <path
                 fill="#FECA00"
                 d="M18.398 6.466s.294-.163.336-.439c.043-.276.497-.616.27-.575-.227.04-.097.072-.427 0-.329-.072-.755-.12-.755-.322 0-.203.212-.363.039-.363-.174 0-.543-.192-.469-.045.075.146-.17-.02-.048.284.122.304-.026.61.048.691.075.08-.048.476-.048.476s.045.147.124-.073c.078-.22.25-.374.165-.187-.087.187-.196.632-.098.553a.695.695 0 00.195-.366c0-.073.247-.359.247-.143s-.233.386-.116.386c.116 0 .181.046.254-.17.073-.216.25-.359.324-.216.072.143.056.135-.041.322-.098.187 0 .187 0 .187z"
@@ -166,7 +166,7 @@ export function HRFlag({ radius, className, size, ...others }: FlagProps) {
               d="M21.352 8.186l-.108.249-.239-.128h0-.001l-.005-.003-.02-.011a7.39 7.39 0 00-.358-.177 6.985 6.985 0 00-.784-.32 13.041 13.041 0 00-.9-.254l-.056-.013-.014-.003-.003-.001h0l-.26-.058.073-.255.846-2.976.035-.121.118-.044 1.659-.62.194-.072.107.176.94 1.549.066.11-.051.119-1.239 2.853z"
             />
             <mask
-              id="mantine-b640un4t4"
+              id="mantine-zd5pqi5wr"
               style={{ maskType: 'alpha' }}
               width="5"
               height="6"
@@ -181,7 +181,7 @@ export function HRFlag({ radius, className, size, ...others }: FlagProps) {
                 d="M21.352 8.186l-.108.249-.239-.128h0-.001l-.005-.003-.02-.011a7.39 7.39 0 00-.358-.177 6.985 6.985 0 00-.784-.32 13.041 13.041 0 00-.9-.254l-.056-.013-.014-.003-.003-.001h0l-.26-.058.073-.255.846-2.976.035-.121.118-.044 1.659-.62.194-.072.107.176.94 1.549.066.11-.051.119-1.239 2.853z"
               />
             </mask>
-            <g mask="url(#mantine-b640un4t4)">
+            <g mask="url(#mantine-zd5pqi5wr)">
               <path
                 fill="#FECA00"
                 fillRule="evenodd"
